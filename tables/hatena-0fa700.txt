@@ -1,0 +1,50 @@
+# U+FA700-U+FA7FF
+
+# Column 1: Code point
+# Column 2: Unicode fallback code point
+# Column 3: Example glyph URL
+
+U+FA700			# kaeru
+
+U+FA710	U+24C6	http://h2.hatena.ne.jp/images/icon-q.gif	# quick q
+U+FA711		http://c.hatena.ne.jp/images/icon-cococoin.gif	# cococoin
+
+U+FA731		http://www.hatena.ne.jp/images/hatenaemoji/hatenaext/FA731.png	# black star left half with white star right half
+
+U+FA741	U+0041	http://www.hatena.ne.jp/images/favicon/antenna.gif	# hatena antenna
+U+FA742	U+0042	http://www.hatena.ne.jp/images/favicon/bookmark.gif	# hatena bookmark
+U+FA743	U+0043	http://www.hatena.ne.jp/images/favicon/coco.gif	# hatena bookmark
+U+FA744	U+0044	http://www.hatena.ne.jp/images/favicon/diary.gif	# hatena diary
+#
+U+FA746	U+0046	http://www.hatena.ne.jp/images/favicon/fotolife.gif	# hatena fotolife
+U+FA747	U+0047	http://www.hatena.ne.jp/images/favicon/group.gif	# hatena group
+U+FA748		http://www.hatena.ne.jp/images/favicon/haiku.gif	# hatena haiku
+U+FA749	U+0049	http://www.hatena.ne.jp/images/favicon/idea.gif	# hatena idea
+#
+U+FA74B	U+004B	http://www.hatena.ne.jp/images/favicon/keyword.gif	# hatena keyword
+#
+U+FA74D	U+004D	http://www.hatena.ne.jp/images/favicon/message.gif	# hatena message
+#
+#
+#
+U+FA751	U+0051	http://www.hatena.ne.jp/images/favicon/question.gif	# hatena question
+U+FA752	U+0052	http://www.hatena.ne.jp/images/favicon/rss.gif	# hatena rss
+U+FA753	U+0053	http://www.hatena.ne.jp/images/favicon/star.gif	# hatena star
+#
+U+FA755		http://www.hatena.ne.jp/images/favicon/ugomemo.gif	# ugomemo hatena
+#
+U+FA757	U+0055	http://favicon.hatena.ne.jp/?url=http://w.hatena.ne.jp/	# hatena world
+#
+#
+#
+
+U+FA770	U+0070	http://favicon.hatena.ne.jp/?url=http://counter.hatena.ne.jp/	# hatena counter
+U+FA770	U+0070	http://favicon.hatena.ne.jp/?url=http://graph.hatena.ne.jp/	# hatena graph
+U+FA770	U+0070	http://www.hatena.ne.jp/images/favicon/mono.gif	# hatena monolith
+U+FA770	U+0070	http://favicon.hatena.ne.jp/?url=http://ring.hatena.ne.jp/	# hatena ring
+U+FA770	U+0070	http://favicon.hatena.ne.jp/?url=http://search.hatena.ne.jp/	# hatena search
+
+U+FA7E7	U+003F	http://www.hatena.ne.jp/images/favicon/www.gif	# hatena logo
+
+U+FA7ED	U+006D		# logo "m"
+U+FA7F4	U+0074		# logo "t"

@@ -1,0 +1,56 @@
+U+E000		U+24B6	e-50B	# negative squared latin capital letter a
+U+E001		U+24B7	e-50C	# negative squared latin capital letter b
+U+E002		U+24CD		# black circled latin capital letter x
+U+E003		U+24CE		# black circled latin capital letter y
+U+E004		U+24C1		# button symbol l
+U+E005		U+24C7		# button symbol r
+U+E006		U+271C		# button symbol plus
+U+E007			e-02A	# alarm symbol
+U+E008		U+263A		# face e008
+U+E009		U+2639		# face e009
+U+E00A				# face e00a
+U+E00B				# face e00b
+U+E00C	U+2600		e-000	# BLACK SUN WITH RAYS
+U+E00D	U+2601		e-001	# CLOUD
+U+E00E	U+2602			# UMBRELLA
+U+E00F	U+26C4	U+2603	e-003	# SNOWMAN WITHOUT SNOW
+U+E010		U+0021		# black squared exclamation mark
+U+E011		U+003F		# black squared question mark
+U+E012	U+2709		e-529	# ENVELOPE
+U+E013			e-525	# mobile phone
+U+E014				# heavy suquared plus sign
+U+E015	U+2660		e-B1B	# BLACK SPADE SUIT
+U+E016	U+2666		e-B1C	# BLACK DIAMOND SUIT
+U+E017	U+2665		e-B1A	# BLACK HEART SUIT
+U+E018	U+2663		e-B1D	# BLACK CLUB SUIT
+U+E019	U+27A1	U+21D2	e-AFA	# BLACK RIGHTWARD ARROW
+U+E01A	U+2B05	U+21D0	e-AFB	# LEFTWARDS BLACK ARROW
+U+E01B	U+2B06	U+21D1	e-AF8	# UPWARDS BLACK ARROW
+U+E01C	U+2B07	U+21D3	e-AF9	# DOWNWARDS BLACK ARROW
+
+
+U+E020				# progress animation frame 0
+U+E021				# progress animation frame 1
+U+E022				# progress animation frame 2
+U+E023				# progress animation frame 3
+U+E024				# progress animation frame 4
+U+E025				# progress animation frame 5
+U+E026				# progress animation frame 6
+U+E027				# progress animation frame 7
+U+E028		U+2715	e-B45	# cross mark
+U+E029		U+24B6		# squared latin capital letter a
+U+E02A		U+24B7		# squared latin capital letter b
+U+E02B		U+24B8		# squared latin capital letter c
+U+E02C		U+24B9		# squared latin capital letter d
+U+E02D		U+24B6		# negative squared latin capital letter a
+U+E02E		U+24C2		# negative squared latin capital letter m
+
+U+E030		U+0050		# (latin capital letter p)
+U+E031		U+0049		# (latin capital letter i)
+U+E032		U+0043		# (latin capital letter c)
+U+E033		U+0054		# (latin capital letter t)
+U+E034		U+0048		# (latin capital letter h)
+U+E035		U+0041		# (latin capital letter a)
+
+U+E03E				# squared cross mark
+U+E03F				# squared heavy cross mark
