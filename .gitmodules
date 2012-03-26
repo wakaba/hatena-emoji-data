@@ -1,0 +1,6 @@
+[submodule "modules/perl-json-functions-xs"]
+	path = modules/perl-json-functions-xs
+	url = git://github.com/wakaba/perl-json-functions-xs.git
+[submodule "modules/perl-charclass"]
+	path = modules/perl-charclass
+	url = git://github.com/wakaba/perl-charclass.git
