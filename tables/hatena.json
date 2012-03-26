@@ -10107,7 +10107,7 @@
    "0FA700" : {
       "emoji_id" : "h00",
       "hatena" : "0FA700",
-      "image_url" : "http://www.hatena.ne.jp/images/hatenaemoji/hatenaext/FA700.png",
+      "image_url" : "http://ugomemo.hatena.ne.jp/images/dsi/l/U\u002BFA700.gif",
       "text" : "kaeru"
    },
    "0FA710" : {
@@ -10119,6 +10119,9 @@
    },
    "0FA711" : {
       "emoji_id" : "h11",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FA711",
       "image_url" : "http://c.hatena.ne.jp/images/icon-cococoin.gif",
       "text" : "cococoin"

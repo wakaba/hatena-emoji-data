@@ -4,7 +4,7 @@
 # Column 2: Unicode fallback code point
 # Column 3: Example glyph URL
 
-U+FA700			# kaeru
+U+FA700		http://ugomemo.hatena.ne.jp/images/dsi/l/U+FA700.gif	# kaeru
 
 U+FA710	U+24C6	http://h2.hatena.ne.jp/images/icon-q.gif	# quick q
 U+FA711		http://c.hatena.ne.jp/images/icon-cococoin.gif	# cococoin
