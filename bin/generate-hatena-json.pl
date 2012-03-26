@@ -14,9 +14,20 @@ my $input_hatena_1_f = $tables_d->file('hatena-00e000.txt');
 my $input_hatena_2_f = $tables_d->file('hatena-0fa700.txt');
 my $input_imode_f = $tables_d->file('imode_emoji.txt');
 my $input_mixi_f = $tables_d->file('mixi-emoji_list.txt');
+my $names_list_f = $tables_d->file('NamesList.txt');
 my $output_f = $tables_d->file('hatena.json');
 
 BEGIN { require (file(__FILE__)->dir->parent->subdir('lib')->file('charnames.pl')->stringify) }
+
+my $CodeToName = {};
+
+{
+    for ($names_list_f->slurp) {
+        if (/^([0-9A-F]+)\s+(.+)/) {
+            $CodeToName->{hex $1} = $2;
+        }
+    }
+}
 
 sub with_dom (&$) {
     my $code = shift;
@@ -27,15 +38,23 @@ sub with_dom (&$) {
     $doc->dispose;
 }
 
-sub parse_emoji4unicode_code ($) {
-    my $s = shift;
+sub parse_emoji4unicode_code ($$) {
+    my ($s, $name) = @_;
     return undef unless defined $s;
     if ($s =~ /^([0-9A-Fa-f]{4,6})$/) {
         return hex $1;
     } elsif ($s =~ /^>([0-9A-Fa-f]{4,6})$/) {
         return \ hex $1;
+    } elsif ($s =~ /^\+([0-9A-Fa-f]{4,6})$/) {
+        my $code = hex $1;
+        if ($CodeToName->{$code} and $CodeToName->{$code} eq $name) {
+            return $code;
+        } else {
+            return undef;
+        }
+    } elsif ($s =~ /^([0-9A-Fa-f]{4,6})\+([0-9A-Fa-f]{4,6})$/) {
+        return [hex $1, hex $2];
     } else {
-        # Don't touch code points with "+" or "*"...
         return undef;
     }
 }
@@ -100,12 +119,17 @@ with_dom {
     my $es = $doc->getElementsByTagName('e');
     for my $e (@$es) {
         my $eid = $e->getAttribute('id');
-
+        my $name = $e->getAttribute('name');
+        
         for my $type (qw/google unicode docomo kddi softbank/) {
-            my $code = parse_emoji4unicode_code $e->getAttribute($type);
+            my $code = parse_emoji4unicode_code $e->getAttribute($type), $name;
             next unless defined $code;
             if (ref $code) {
-                $chars->{$eid}->{"$type\_fallback"} = $$code;
+                if (ref $code eq 'ARRAY') {
+                    $chars->{$eid}->{"$type\_sequence"} = $code;
+                } else {
+                    $chars->{$eid}->{"$type\_fallback"} = $$code;
+                }
             } else {
                 $chars->{$eid}->{$type} = $code;
             }
@@ -120,7 +144,7 @@ with_dom {
             $chars->{$eid}->{hatena} = 0xFE000 + hex $eid;
         }
 
-        my $text = $e->getAttribute('text_fallback') || $e->getAttribute('name') || '';
+        my $text = $e->getAttribute('text_fallback') || $name || '';
         $text =~ s/^\[//;
         $text =~ s/\]$//;
         $chars->{$eid}->{text} = $text;
@@ -235,6 +259,8 @@ for my $id (keys %$chars) {
             unicode_age => is_private $code->{unicode}
                 ? undef : unicode_age_n $code->{unicode},
             unicode_fallback => format_unicode $char->{unicode_fallback},
+            unicode_sequence => $char->{unicode_sequence}
+                ? [map { format_unicode $_ } @{$char->{unicode_sequence}}] : undef,
             docomo => format_unicode $char->{docomo},
             docomo_fallback => format_unicode $char->{docomo_fallback},
             kddi => format_unicode $char->{kddi},
