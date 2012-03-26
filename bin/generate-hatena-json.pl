@@ -15,6 +15,7 @@ my $input_hatena_2_f = $tables_d->file('hatena-0fa700.txt');
 my $input_imode_f = $tables_d->file('imode_emoji.txt');
 my $input_mixi_f = $tables_d->file('mixi-emoji_list.txt');
 my $names_list_f = $tables_d->file('NamesList.txt');
+my $images_d = $tables_d->parent->subdir('images');
 my $output_f = $tables_d->file('hatena.json');
 
 BEGIN { require (file(__FILE__)->dir->parent->subdir('lib')->file('charnames.pl')->stringify) }
@@ -139,6 +140,8 @@ with_dom {
             if $chars->{$eid}->{docomo};
         $chars->{$eid}->{hatena} = $chars->{$eid}->{google};
         $chars->{$eid}->{google_eid} = $eid;
+        $chars->{$eid}->{has_image}->{colored_16x16_gif} = 1
+            if -f $images_d->file('0FE000', 'e-' . $eid . '.gif');
         
         if (not defined $chars->{$eid}->{hatena} and defined $eid) {
             $chars->{$eid}->{hatena} = 0xFE000 + hex $eid;
@@ -194,6 +197,10 @@ with_dom {
         $chars->{$eid}->{unicode_fallback} = $uni_f if defined $uni_f;
         $chars->{$eid}->{image_url} = $img
             || sprintf q<http://www.hatena.ne.jp/images/hatenaemoji/hatenaext/%04X.png>, $code;
+        $chars->{$eid}->{has_image}->{black_16x16_png} = 1
+            if -f $images_d->file('0FA700', sprintf '%04X.png', $code);
+        $chars->{$eid}->{has_image}->{colored_16x16_gif} = 1
+            if -f $images_d->file('0FA700', sprintf '%04X-c.gif', $code);
         $name =~ s/\# //;
         $chars->{$eid}->{text} ||= $name;
     }
@@ -271,7 +278,7 @@ for my $id (keys %$chars) {
             hatena => format_unicode $char->{hatena},
             hatena_00e000 => format_unicode $char->{hatena_00e000},
             mixi => $char->{mixi},
-            has_gif => !!$char->{has_gif}, # XXX
+            has_image => $char->{has_image},
             image_url => format_url $char->{image_url},
             text => $char->{text},
         };
