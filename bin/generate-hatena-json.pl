@@ -12,6 +12,8 @@ my $tables_d = file(__FILE__)->dir->parent->subdir('tables');
 my $input_xml_f = $tables_d->file('emoji4unicode.xml');
 my $input_hatena_1_f = $tables_d->file('hatena-00e000.txt');
 my $input_hatena_2_f = $tables_d->file('hatena-0fa700.txt');
+my $input_imode_f = $tables_d->file('imode_emoji.txt');
+my $input_mixi_f = $tables_d->file('mixi-emoji_list.txt');
 my $output_f = $tables_d->file('hatena.json');
 
 BEGIN { require (file(__FILE__)->dir->parent->subdir('lib')->file('charnames.pl')->stringify) }
@@ -91,6 +93,8 @@ my $additional_unicode = {
     
 };
 
+my $DocomoUnicodeToEmojiID = {};
+
 with_dom {
     my $doc = shift;
     my $es = $doc->getElementsByTagName('e');
@@ -107,6 +111,8 @@ with_dom {
             }
         }
         
+        $DocomoUnicodeToEmojiID->{$chars->{$eid}->{docomo}} = $eid
+            if $chars->{$eid}->{docomo};
         $chars->{$eid}->{hatena} = $chars->{$eid}->{google};
         $chars->{$eid}->{google_eid} = $eid;
         
@@ -167,6 +173,39 @@ with_dom {
         $name =~ s/\# //;
         $chars->{$eid}->{text} ||= $name;
     }
+}
+
+{
+    my $DocomoNumberToEmojiID = {};
+    for (split /[\x0D\x0A]+/, scalar $input_imode_f->slurp) {
+        my ($no, undef, undef, $ucode) = split /\s+/, $_;
+        
+        next unless $no =~ /^\[(\d+)\]$/;
+        $no = 0+$1;
+        
+        next unless $ucode =~ /^U([0-9A-F]+)$/;
+        $ucode = hex $1;
+        
+        my $eid = $DocomoUnicodeToEmojiID->{$ucode}
+            or warn sprintf "Emoji ID not defined for docomo U+%04X (#%d)",
+                $ucode, $no;
+        $DocomoNumberToEmojiID->{$no} = $eid;
+    }
+
+    for (split /[\x0D\x0A]+/, scalar $input_mixi_f->slurp) {
+        my @code = split /\s+/, $_;
+        my $docomo_number = [map { /^\[i:([0-9]+)\]$/ ? $1 : () } grep { /\[i:/ } @code]->[0];
+        warn "Docomo number not specified for mixi @code"
+            unless $docomo_number;
+
+        # Extended emojis
+        $docomo_number += 1001 - 206 if $docomo_number > 206;
+        
+        my $eid = $DocomoNumberToEmojiID->{$docomo_number}
+            or warn sprintf "Emoji ID not defined for docomo #%d",
+                $docomo_number;
+        push @{$chars->{$eid}->{mixi} ||= []}, @code;
+    }        
 }
 
 $chars->{BA3}->{hatena} = 0xFEBA3; # e-BA3 is unified with e-B67 by Google.
