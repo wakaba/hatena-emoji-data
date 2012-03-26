@@ -4,6 +4,9 @@
       "docomo" : "00E731",
       "emoji_id" : "B29",
       "google" : "0FEB29",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB29",
       "kddi" : "00E558",
       "mixi" : [
@@ -21,6 +24,9 @@
       "docomo" : "00E736",
       "emoji_id" : "B2D",
       "google" : "0FEB2D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB2D",
       "kddi" : "00E559",
       "mixi" : [
@@ -72,6 +78,9 @@
       "docomo" : "00E704",
       "emoji_id" : "B06",
       "google" : "0FEB06",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB06",
       "kddi" : "00EB30",
       "mixi" : [
@@ -88,6 +97,9 @@
       "docomo" : "00E703",
       "emoji_id" : "B05",
       "google" : "0FEB05",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB05",
       "kddi" : "00EB2F",
       "mixi" : [
@@ -104,6 +116,9 @@
       "docomo" : "00E732",
       "emoji_id" : "B2A",
       "google" : "0FEB2A",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB2A",
       "kddi" : "00E54E",
       "mixi" : [
@@ -135,6 +150,9 @@
       "docomo" : "00E73C",
       "emoji_id" : "AF6",
       "google" : "0FEAF6",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEAF6",
       "kddi" : "00EB7A",
       "text" : "⇔",
@@ -146,6 +164,9 @@
       "docomo" : "00E73D",
       "emoji_id" : "AF7",
       "google" : "0FEAF7",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEAF7",
       "kddi" : "00EB7B",
       "text" : "↑↓",
@@ -157,6 +178,9 @@
       "docomo" : "00E697",
       "emoji_id" : "AF2",
       "google" : "0FEAF2",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEAF2",
       "kddi" : "00E54C",
       "mixi" : [
@@ -175,6 +199,9 @@
       "docomo" : "00E678",
       "emoji_id" : "AF0",
       "google" : "0FEAF0",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEAF0",
       "kddi" : "00E555",
       "mixi" : [
@@ -193,6 +220,9 @@
       "docomo" : "00E696",
       "emoji_id" : "AF1",
       "google" : "0FEAF1",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEAF1",
       "kddi" : "00E54D",
       "mixi" : [
@@ -211,6 +241,9 @@
       "docomo" : "00E6A5",
       "emoji_id" : "AF3",
       "google" : "0FEAF3",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEAF3",
       "kddi" : "00E556",
       "mixi" : [
@@ -229,6 +262,9 @@
       "docomo" : "00E6DA",
       "emoji_id" : "B83",
       "google" : "0FEB83",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB83",
       "kddi" : "00E55D",
       "mixi" : [
@@ -255,6 +291,9 @@
       "docomo" : "00E71F",
       "emoji_id" : "01D",
       "google" : "0FE01D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE01D",
       "kddi" : "00E57A",
       "mixi" : [
@@ -319,6 +358,9 @@
       "docomo" : "00E6BA",
       "emoji_id" : "02A",
       "google" : "0FE02A",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE02A",
       "hatena_00e000" : "00E007",
       "kddi" : "00E594",
@@ -348,6 +390,9 @@
       "docomo" : "00E71C",
       "emoji_id" : "01B",
       "google" : "0FE01B",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE01B",
       "kddi" : "00E47C",
       "mixi" : [
@@ -465,6 +510,9 @@
       "docomo" : "00E63E",
       "emoji_id" : "000",
       "google" : "0FE000",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE000",
       "hatena_00e000" : "00E00C",
       "kddi" : "00E488",
@@ -488,6 +536,9 @@
       "docomo" : "00E63F",
       "emoji_id" : "001",
       "google" : "0FE001",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE001",
       "hatena_00e000" : "00E00D",
       "kddi" : "00E48D",
@@ -517,6 +568,9 @@
       "docomo" : "00E687",
       "emoji_id" : "523",
       "google" : "0FE523",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE523",
       "kddi" : "00E596",
       "mixi" : [
@@ -546,6 +600,9 @@
       "docomo" : "00E640",
       "emoji_id" : "002",
       "google" : "0FE002",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE002",
       "kddi" : "00E48C",
       "mixi" : [
@@ -564,6 +621,9 @@
       "docomo" : "00E670",
       "emoji_id" : "981",
       "google" : "0FE981",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE981",
       "kddi" : "00E597",
       "mixi" : [
@@ -605,6 +665,9 @@
       "docomo" : "00E646",
       "emoji_id" : "02B",
       "google" : "0FE02B",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE02B",
       "kddi" : "00E48F",
       "mixi" : [
@@ -623,6 +686,9 @@
       "docomo" : "00E647",
       "emoji_id" : "02C",
       "google" : "0FE02C",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE02C",
       "kddi" : "00E490",
       "mixi" : [
@@ -641,6 +707,9 @@
       "docomo" : "00E648",
       "emoji_id" : "02D",
       "google" : "0FE02D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE02D",
       "kddi" : "00E491",
       "mixi" : [
@@ -659,6 +728,9 @@
       "docomo" : "00E649",
       "emoji_id" : "02E",
       "google" : "0FE02E",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE02E",
       "kddi" : "00E492",
       "mixi" : [
@@ -677,6 +749,9 @@
       "docomo" : "00E64A",
       "emoji_id" : "02F",
       "google" : "0FE02F",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE02F",
       "kddi" : "00E493",
       "mixi" : [
@@ -695,6 +770,9 @@
       "docomo" : "00E64B",
       "emoji_id" : "030",
       "google" : "0FE030",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE030",
       "kddi" : "00E494",
       "mixi" : [
@@ -713,6 +791,9 @@
       "docomo" : "00E64C",
       "emoji_id" : "031",
       "google" : "0FE031",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE031",
       "kddi" : "00E495",
       "mixi" : [
@@ -731,6 +812,9 @@
       "docomo" : "00E64D",
       "emoji_id" : "032",
       "google" : "0FE032",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE032",
       "kddi" : "00E496",
       "mixi" : [
@@ -749,6 +833,9 @@
       "docomo" : "00E64E",
       "emoji_id" : "033",
       "google" : "0FE033",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE033",
       "kddi" : "00E497",
       "mixi" : [
@@ -767,6 +854,9 @@
       "docomo" : "00E64F",
       "emoji_id" : "034",
       "google" : "0FE034",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE034",
       "kddi" : "00E498",
       "mixi" : [
@@ -785,6 +875,9 @@
       "docomo" : "00E650",
       "emoji_id" : "035",
       "google" : "0FE035",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE035",
       "kddi" : "00E499",
       "mixi" : [
@@ -803,6 +896,9 @@
       "docomo" : "00E651",
       "emoji_id" : "036",
       "google" : "0FE036",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE036",
       "kddi" : "00E49A",
       "mixi" : [
@@ -821,6 +917,9 @@
       "docomo" : "00E68E",
       "emoji_id" : "B1B",
       "google" : "0FEB1B",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB1B",
       "hatena_00e000" : "00E015",
       "kddi" : "00E5A1",
@@ -840,6 +939,9 @@
       "docomo" : "00E690",
       "emoji_id" : "B1D",
       "google" : "0FEB1D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB1D",
       "hatena_00e000" : "00E018",
       "kddi" : "00E5A3",
@@ -859,6 +961,9 @@
       "docomo" : "00E68D",
       "emoji_id" : "B1A",
       "google" : "0FEB1A",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB1A",
       "hatena_00e000" : "00E017",
       "kddi" : "00EAA5",
@@ -878,6 +983,9 @@
       "docomo" : "00E68F",
       "emoji_id" : "B1C",
       "google" : "0FEB1C",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB1C",
       "hatena_00e000" : "00E016",
       "kddi" : "00E5A2",
@@ -897,6 +1005,9 @@
       "docomo" : "00E6F7",
       "emoji_id" : "7FA",
       "google" : "0FE7FA",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7FA",
       "kddi" : "00E4BC",
       "mixi" : [
@@ -917,6 +1028,9 @@
       "docomo" : "00E735",
       "emoji_id" : "B2C",
       "google" : "0FEB2C",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB2C",
       "kddi" : "00EB79",
       "mixi" : [
@@ -932,6 +1046,9 @@
       "docomo" : "00E69B",
       "emoji_id" : "B20",
       "google" : "0FEB20",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB20",
       "kddi" : "00E47F",
       "mixi" : [
@@ -962,6 +1079,9 @@
       "docomo" : "00E737",
       "emoji_id" : "B23",
       "google" : "0FEB23",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB23",
       "kddi" : "00E481",
       "mixi" : [
@@ -981,6 +1101,9 @@
       "docomo" : "00E642",
       "emoji_id" : "004",
       "google" : "0FE004",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE004",
       "kddi" : "00E487",
       "mixi" : [
@@ -1022,6 +1145,9 @@
       "docomo" : "00E656",
       "emoji_id" : "7D4",
       "google" : "0FE7D4",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D4",
       "kddi" : "00E4B6",
       "mixi" : [
@@ -1039,6 +1165,9 @@
       "docomo" : "00E653",
       "emoji_id" : "7D1",
       "google" : "0FE7D1",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D1",
       "kddi" : "00E4BA",
       "mixi" : [
@@ -1056,6 +1185,9 @@
       "docomo" : "00E641",
       "emoji_id" : "003",
       "google" : "0FE003",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE003",
       "hatena_00e000" : "00E00F",
       "kddi" : "00E485",
@@ -1126,6 +1258,9 @@
       "docomo" : "00E654",
       "emoji_id" : "7D2",
       "google" : "0FE7D2",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D2",
       "kddi" : "00E599",
       "mixi" : [
@@ -1143,6 +1278,9 @@
       "docomo" : "00E6A3",
       "emoji_id" : "7EA",
       "google" : "0FE7EA",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7EA",
       "kddi" : "00E4B4",
       "mixi" : [
@@ -1176,6 +1314,9 @@
       "docomo" : "00E66B",
       "emoji_id" : "7F5",
       "google" : "0FE7F5",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7F5",
       "kddi" : "00E571",
       "mixi" : [
@@ -1194,6 +1335,9 @@
       "docomo" : "00E675",
       "emoji_id" : "53E",
       "google" : "0FE53E",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE53E",
       "kddi" : "00E516",
       "mixi" : [
@@ -1222,6 +1366,9 @@
       "docomo" : "00E662",
       "emoji_id" : "7E9",
       "google" : "0FE7E9",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7E9",
       "kddi" : "00E4B3",
       "mixi" : [
@@ -1240,6 +1387,9 @@
       "docomo" : "00E6D3",
       "emoji_id" : "529",
       "google" : "0FE529",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE529",
       "hatena_00e000" : "00E012",
       "kddi" : "00E521",
@@ -1258,6 +1408,9 @@
       "docomo" : "00E693",
       "emoji_id" : "B93",
       "google" : "0FEB93",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB93",
       "kddi" : "00EB83",
       "mixi" : [
@@ -1275,6 +1428,9 @@
       "docomo" : "00E695",
       "emoji_id" : "B95",
       "google" : "0FEB95",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB95",
       "kddi" : "00E5A7",
       "mixi" : [
@@ -1296,6 +1452,9 @@
       "docomo" : "00E694",
       "emoji_id" : "B94",
       "google" : "0FEB94",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB94",
       "kddi" : "00E5A6",
       "mixi" : [
@@ -1314,6 +1473,9 @@
       "docomo" : "00E719",
       "emoji_id" : "539",
       "google" : "0FE539",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE539",
       "kddi" : "00E4A1",
       "mixi" : [
@@ -1332,6 +1494,9 @@
       "docomo" : "00E6AE",
       "emoji_id" : "536",
       "google" : "0FE536",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE536",
       "kddi" : "00EB03",
       "mixi" : [
@@ -1368,6 +1533,9 @@
       "docomo" : "00E6FA",
       "emoji_id" : "B60",
       "google" : "0FEB60",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB60",
       "kddi" : "00EAAB",
       "mixi" : [
@@ -1400,6 +1568,9 @@
       "docomo_fallback" : "00E6F8",
       "emoji_id" : "B61",
       "google" : "0FEB61",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB61",
       "kddi" : "00E479",
       "softbank" : "00E205",
@@ -1486,6 +1657,9 @@
       "docomo" : "00E702",
       "emoji_id" : "B04",
       "google" : "0FEB04",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB04",
       "kddi" : "00E482",
       "mixi" : [
@@ -1505,6 +1679,9 @@
       "docomo" : "00E6EC",
       "emoji_id" : "B0C",
       "google" : "0FEB0C",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB0C",
       "kddi" : "00E595",
       "mixi" : [
@@ -1575,6 +1752,9 @@
       "docomo" : "00E70A",
       "emoji_id" : "B08",
       "google" : "0FEB08",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB08",
       "kddi" : "00EB31",
       "mixi" : [
@@ -1591,6 +1771,9 @@
       "docomo" : "00E6DF",
       "emoji_id" : "82B",
       "google" : "0FE82B",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE82B",
       "mixi" : [
          "[m:163]",
@@ -1607,6 +1790,9 @@
       "docomo" : "00E6F5",
       "emoji_id" : "AF4",
       "google" : "0FEAF4",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEAF4",
       "kddi" : "00EB2D",
       "mixi" : [
@@ -1624,6 +1810,9 @@
       "docomo" : "00E700",
       "emoji_id" : "AF5",
       "google" : "0FEAF5",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEAF5",
       "kddi" : "00EB2E",
       "mixi" : [
@@ -1723,6 +1912,9 @@
       "docomo" : "00E709",
       "emoji_id" : "B07",
       "google" : "0FEB07",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB07",
       "mixi" : [
          "[m:177]",
@@ -1758,6 +1950,9 @@
       "docomo" : "00E734",
       "emoji_id" : "B2B",
       "google" : "0FEB2B",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB2B",
       "kddi" : "00E4F1",
       "mixi" : [
@@ -1835,6 +2030,9 @@
       "docomo" : "00E6BA",
       "emoji_id" : "n07",
       "google" : "0FE02A",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE02A",
       "hatena_00e000" : "00E007",
       "kddi" : "00E594",
@@ -1890,6 +2088,9 @@
       "docomo" : "00E63E",
       "emoji_id" : "n0C",
       "google" : "0FE000",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE000",
       "hatena_00e000" : "00E00C",
       "kddi" : "00E488",
@@ -1912,6 +2113,9 @@
       "docomo" : "00E63F",
       "emoji_id" : "n0D",
       "google" : "0FE001",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE001",
       "hatena_00e000" : "00E00D",
       "kddi" : "00E48D",
@@ -1938,6 +2142,9 @@
       "docomo" : "00E641",
       "emoji_id" : "n0F",
       "google" : "0FE003",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE003",
       "hatena_00e000" : "00E00F",
       "kddi" : "00E485",
@@ -1972,6 +2179,9 @@
       "docomo" : "00E6D3",
       "emoji_id" : "n12",
       "google" : "0FE529",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE529",
       "hatena_00e000" : "00E012",
       "kddi" : "00E521",
@@ -1989,6 +2199,9 @@
       "docomo" : "00E688",
       "emoji_id" : "n13",
       "google" : "0FE525",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE525",
       "hatena_00e000" : "00E013",
       "kddi" : "00E588",
@@ -2013,6 +2226,9 @@
       "docomo" : "00E68E",
       "emoji_id" : "n15",
       "google" : "0FEB1B",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB1B",
       "hatena_00e000" : "00E015",
       "kddi" : "00E5A1",
@@ -2031,6 +2247,9 @@
       "docomo" : "00E68F",
       "emoji_id" : "n16",
       "google" : "0FEB1C",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB1C",
       "hatena_00e000" : "00E016",
       "kddi" : "00E5A2",
@@ -2049,6 +2268,9 @@
       "docomo" : "00E68D",
       "emoji_id" : "n17",
       "google" : "0FEB1A",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB1A",
       "hatena_00e000" : "00E017",
       "kddi" : "00EAA5",
@@ -2067,6 +2289,9 @@
       "docomo" : "00E690",
       "emoji_id" : "n18",
       "google" : "0FEB1D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB1D",
       "hatena_00e000" : "00E018",
       "kddi" : "00E5A3",
@@ -2340,6 +2565,9 @@
       "docomo" : "00E66C",
       "emoji_id" : "7F6",
       "google" : "0FE7F6",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7F6",
       "kddi" : "00E4A6",
       "mixi" : [
@@ -2367,6 +2595,9 @@
       "docomo" : "00E6DB",
       "emoji_id" : "B84",
       "google" : "0FEB84",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB84",
       "kddi" : "00E5AB",
       "mixi" : [
@@ -2392,6 +2623,9 @@
       "docomo" : "00E6D7",
       "emoji_id" : "B21",
       "google" : "0FEB21",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB21",
       "kddi" : "00E578",
       "mixi" : [
@@ -2410,6 +2644,9 @@
       "docomo" : "00E6D8",
       "emoji_id" : "B81",
       "google" : "0FEB81",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB81",
       "kddi" : "00EA88",
       "mixi" : [
@@ -2427,6 +2664,9 @@
       "docomo" : "00E6DD",
       "emoji_id" : "B36",
       "google" : "0FEB36",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB36",
       "kddi" : "00E5B5",
       "mixi" : [
@@ -2444,6 +2684,9 @@
       "docomo" : "00E72F",
       "emoji_id" : "B28",
       "google" : "0FEB28",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB28",
       "mixi" : [
          "[m:99]",
@@ -2461,6 +2704,9 @@
       "docomo" : "00E70B",
       "emoji_id" : "B27",
       "google" : "0FEB27",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB27",
       "kddi" : "00E5AD",
       "mixi" : [
@@ -2747,6 +2993,9 @@
       "docomo" : "00E739",
       "emoji_id" : "B2F",
       "google" : "0FEB2F",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB2F",
       "kddi" : "00EA8A",
       "mixi" : [
@@ -2763,6 +3012,9 @@
       "docomo" : "00E73A",
       "emoji_id" : "B30",
       "google" : "0FEB30",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB30",
       "mixi" : [
          "[m:246]",
@@ -2782,6 +3034,9 @@
       "docomo" : "00E73B",
       "emoji_id" : "B31",
       "google" : "0FEB31",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB31",
       "kddi" : "00EA89",
       "softbank" : "00E22A",
@@ -2859,6 +3114,9 @@
       "docomo" : "00E643",
       "emoji_id" : "005",
       "google" : "0FE005",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE005",
       "kddi" : "00E469",
       "mixi" : [
@@ -2877,6 +3135,9 @@
       "docomo" : "00E644",
       "emoji_id" : "006",
       "google" : "0FE006",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE006",
       "kddi" : "00E598",
       "mixi" : [
@@ -2894,6 +3155,9 @@
       "docomo" : "00E645",
       "emoji_id" : "007",
       "google" : "0FE007",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE007",
       "kddi" : "00EAE8",
       "mixi" : [
@@ -2911,6 +3175,9 @@
       "docomo" : "00E6B3",
       "emoji_id" : "008",
       "google" : "0FE008",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE008",
       "kddi" : "00EAF1",
       "mixi" : [
@@ -2994,6 +3261,9 @@
       "docomo" : "00E73F",
       "emoji_id" : "038",
       "google" : "0FE038",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE038",
       "kddi" : "00EB7C",
       "softbank" : "00E43E",
@@ -3034,6 +3304,9 @@
       "docomo" : "00E69C",
       "emoji_id" : "011",
       "google" : "0FE011",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE011",
       "kddi" : "00E5A8",
       "mixi" : [
@@ -3056,6 +3329,9 @@
       "docomo" : "00E69E",
       "emoji_id" : "013",
       "google" : "0FE013",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE013",
       "kddi" : "00E5AA",
       "mixi" : [
@@ -3073,6 +3349,9 @@
       "docomo" : "00E69D",
       "emoji_id" : "012",
       "google" : "0FE012",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE012",
       "kddi" : "00E5A9",
       "mixi" : [
@@ -3089,6 +3368,9 @@
       "docomo" : "00E6A0",
       "emoji_id" : "015",
       "google" : "0FE015",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE015",
       "mixi" : [
          "[m:149]",
@@ -3104,6 +3386,9 @@
       "docomo" : "00E69F",
       "emoji_id" : "014",
       "google" : "0FE014",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE014",
       "kddi" : "00E486",
       "mixi" : [
@@ -3160,6 +3445,9 @@
       "docomo" : "00E746",
       "emoji_id" : "03E",
       "google" : "0FE03E",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE03E",
       "kddi" : "00EB7D",
       "softbank_fallback" : "00E110",
@@ -3191,6 +3479,9 @@
       "docomo" : "00E743",
       "emoji_id" : "03D",
       "google" : "0FE03D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE03D",
       "kddi" : "00E4E4",
       "softbank" : "00E304",
@@ -3202,6 +3493,9 @@
       "docomo" : "00E748",
       "emoji_id" : "040",
       "google" : "0FE040",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE040",
       "kddi" : "00E4CA",
       "softbank" : "00E030",
@@ -3282,6 +3576,9 @@
       "docomo" : "00E741",
       "emoji_id" : "03C",
       "google" : "0FE03C",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE03C",
       "kddi" : "00E513",
       "softbank" : "00E110",
@@ -3293,6 +3590,9 @@
       "docomo" : "00E747",
       "emoji_id" : "03F",
       "google" : "0FE03F",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE03F",
       "kddi" : "00E4CE",
       "softbank" : "00E118",
@@ -3392,6 +3692,9 @@
       "docomo" : "00E744",
       "emoji_id" : "050",
       "google" : "0FE050",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE050",
       "kddi" : "00EB35",
       "text" : "バナナ",
@@ -3411,6 +3714,9 @@
       "docomo" : "00E745",
       "emoji_id" : "051",
       "google" : "0FE051",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE051",
       "kddi" : "00EAB9",
       "softbank" : "00E345",
@@ -3442,6 +3748,9 @@
       "docomo" : "00E742",
       "emoji_id" : "04F",
       "google" : "0FE04F",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE04F",
       "kddi" : "00E4D2",
       "text" : "さくらんぼ",
@@ -3462,6 +3771,9 @@
       "docomo" : "00E673",
       "emoji_id" : "960",
       "google" : "0FE960",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE960",
       "kddi" : "00E4D6",
       "mixi" : [
@@ -3516,6 +3828,9 @@
       "docomo" : "00E749",
       "emoji_id" : "961",
       "google" : "0FE961",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE961",
       "kddi" : "00E4D5",
       "softbank" : "00E342",
@@ -3548,6 +3863,9 @@
       "docomo" : "00E74C",
       "emoji_id" : "963",
       "google" : "0FE963",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE963",
       "kddi" : "00E5B4",
       "softbank" : "00E340",
@@ -3569,6 +3887,9 @@
       "docomo" : "00E74D",
       "emoji_id" : "964",
       "google" : "0FE964",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE964",
       "kddi" : "00EAAF",
       "softbank" : "00E339",
@@ -3740,6 +4061,9 @@
       "docomo" : "00E74A",
       "emoji_id" : "962",
       "google" : "0FE962",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE962",
       "kddi" : "00E4D0",
       "softbank" : "00E046",
@@ -3781,6 +4105,9 @@
       "docomo" : "00E66F",
       "emoji_id" : "980",
       "google" : "0FE980",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE980",
       "kddi" : "00E4AC",
       "mixi" : [
@@ -3798,6 +4125,9 @@
       "docomo" : "00E71E",
       "emoji_id" : "984",
       "google" : "0FE984",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE984",
       "kddi" : "00EAAE",
       "mixi" : [
@@ -3815,6 +4145,9 @@
       "docomo" : "00E74B",
       "emoji_id" : "985",
       "google" : "0FE985",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE985",
       "kddi" : "00EA97",
       "softbank" : "00E30B",
@@ -3826,6 +4159,9 @@
       "docomo" : "00E756",
       "emoji_id" : "986",
       "google" : "0FE986",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE986",
       "kddi" : "00E4C1",
       "softbank_fallback" : "00E044",
@@ -3837,6 +4173,9 @@
       "docomo" : "00E671",
       "emoji_id" : "982",
       "google" : "0FE982",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE982",
       "kddi" : "00E4C2",
       "mixi" : [
@@ -3866,6 +4205,9 @@
       "docomo" : "00E672",
       "emoji_id" : "983",
       "google" : "0FE983",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE983",
       "kddi" : "00E4C3",
       "mixi" : [
@@ -3896,6 +4238,9 @@
       "docomo" : "00E684",
       "emoji_id" : "50F",
       "google" : "0FE50F",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE50F",
       "kddi" : "00E59F",
       "mixi" : [
@@ -3913,6 +4258,9 @@
       "docomo" : "00E685",
       "emoji_id" : "510",
       "google" : "0FE510",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE510",
       "kddi" : "00E4CF",
       "mixi" : [
@@ -3931,6 +4279,9 @@
       "docomo" : "00E686",
       "emoji_id" : "511",
       "google" : "0FE511",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE511",
       "kddi" : "00E5A0",
       "mixi" : [
@@ -3958,6 +4309,9 @@
       "docomo" : "00E6A4",
       "emoji_id" : "512",
       "google" : "0FE512",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE512",
       "kddi" : "00E4C9",
       "mixi" : [
@@ -4123,6 +4477,9 @@
       "docomo" : "00E679",
       "emoji_id" : "7FC",
       "google" : "0FE7FC",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7FC",
       "mixi" : [
          "[m:127]",
@@ -4168,6 +4525,9 @@
       "docomo" : "00E676",
       "emoji_id" : "800",
       "google" : "0FE800",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE800",
       "kddi" : "00E503",
       "mixi" : [
@@ -4185,6 +4545,9 @@
       "docomo" : "00E677",
       "emoji_id" : "801",
       "google" : "0FE801",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE801",
       "kddi" : "00E517",
       "mixi" : [
@@ -4215,6 +4578,9 @@
       "docomo" : "00E67A",
       "emoji_id" : "803",
       "google" : "0FE803",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE803",
       "kddi" : "00E508",
       "mixi" : [
@@ -4232,6 +4598,9 @@
       "docomo" : "00E67B",
       "emoji_id" : "804",
       "google" : "0FE804",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE804",
       "kddi" : "00E59C",
       "mixi" : [
@@ -4249,6 +4618,9 @@
       "docomo" : "00E67C",
       "emoji_id" : "805",
       "google" : "0FE805",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE805",
       "kddi" : "00EAF5",
       "mixi" : [
@@ -4267,6 +4639,9 @@
       "docomo" : "00E67D",
       "emoji_id" : "806",
       "google" : "0FE806",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE806",
       "kddi" : "00E59E",
       "mixi" : [
@@ -4282,6 +4657,9 @@
       "docomo" : "00E67E",
       "emoji_id" : "807",
       "google" : "0FE807",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE807",
       "kddi" : "00E49E",
       "mixi" : [
@@ -4300,6 +4678,9 @@
       "docomo" : "00E6AC",
       "emoji_id" : "808",
       "google" : "0FE808",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE808",
       "kddi" : "00E4BE",
       "mixi" : [
@@ -4327,6 +4708,9 @@
       "docomo" : "00E68B",
       "emoji_id" : "80A",
       "google" : "0FE80A",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE80A",
       "kddi" : "00E4C6",
       "mixi" : [
@@ -4402,6 +4786,9 @@
       "docomo" : "00E6F6",
       "emoji_id" : "813",
       "google" : "0FE813",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE813",
       "kddi" : "00E5BE",
       "mixi" : [
@@ -4419,6 +4806,9 @@
       "docomo" : "00E6FF",
       "emoji_id" : "814",
       "google" : "0FE814",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE814",
       "kddi" : "00E505",
       "mixi" : [
@@ -4495,6 +4885,9 @@
       "docomo" : "00E652",
       "emoji_id" : "7D0",
       "google" : "0FE7D0",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D0",
       "mixi" : [
          "[m:115]",
@@ -4508,6 +4901,9 @@
       "docomo" : "00E655",
       "emoji_id" : "7D3",
       "google" : "0FE7D3",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D3",
       "kddi" : "00E4B7",
       "mixi" : [
@@ -4525,6 +4921,9 @@
       "docomo" : "00E657",
       "emoji_id" : "7D5",
       "google" : "0FE7D5",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D5",
       "kddi" : "00EAAC",
       "mixi" : [
@@ -4542,6 +4941,9 @@
       "docomo" : "00E658",
       "emoji_id" : "7D6",
       "google" : "0FE7D6",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D6",
       "kddi" : "00E59A",
       "mixi" : [
@@ -4559,6 +4961,9 @@
       "docomo" : "00E659",
       "emoji_id" : "7D7",
       "google" : "0FE7D7",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D7",
       "kddi" : "00E4B9",
       "mixi" : [
@@ -4576,6 +4981,9 @@
       "docomo" : "00E712",
       "emoji_id" : "7D8",
       "google" : "0FE7D8",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D8",
       "kddi" : "00E4B8",
       "mixi" : [
@@ -4593,6 +5001,9 @@
       "docomo" : "00E733",
       "emoji_id" : "7D9",
       "google" : "0FE7D9",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D9",
       "kddi" : "00E46B",
       "mixi" : [
@@ -4651,6 +5062,9 @@
       "docomo" : "00E663",
       "emoji_id" : "4B0",
       "google" : "0FE4B0",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4B0",
       "kddi" : "00E4AB",
       "mixi" : [
@@ -4680,6 +5094,9 @@
       "docomo" : "00E664",
       "emoji_id" : "4B2",
       "google" : "0FE4B2",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4B2",
       "kddi" : "00E4AD",
       "mixi" : [
@@ -4698,6 +5115,9 @@
       "docomo" : "00E665",
       "emoji_id" : "4B3",
       "google" : "0FE4B3",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4B3",
       "kddi" : "00E5DE",
       "mixi" : [
@@ -4719,6 +5139,9 @@
       "docomo" : "00E666",
       "emoji_id" : "4B4",
       "google" : "0FE4B4",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4B4",
       "kddi" : "00E5DF",
       "mixi" : [
@@ -4737,6 +5160,9 @@
       "docomo" : "00E667",
       "emoji_id" : "4B5",
       "google" : "0FE4B5",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4B5",
       "kddi" : "00E4AA",
       "mixi" : [
@@ -4754,6 +5180,9 @@
       "docomo" : "00E668",
       "emoji_id" : "4B6",
       "google" : "0FE4B6",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4B6",
       "kddi" : "00E4A3",
       "mixi" : [
@@ -4771,6 +5200,9 @@
       "docomo" : "00E669",
       "emoji_id" : "4B7",
       "google" : "0FE4B7",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4B7",
       "kddi" : "00EA81",
       "mixi" : [
@@ -4798,6 +5230,9 @@
       "docomo" : "00E66A",
       "emoji_id" : "4B9",
       "google" : "0FE4B9",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4B9",
       "kddi" : "00E4A4",
       "mixi" : [
@@ -4815,6 +5250,9 @@
       "docomo" : "00E73E",
       "emoji_id" : "4BA",
       "google" : "0FE4BA",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4BA",
       "kddi" : "00EA80",
       "softbank" : "00E157",
@@ -4877,6 +5315,9 @@
       "docomo" : "00E74E",
       "emoji_id" : "1B9",
       "google" : "0FE1B9",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE1B9",
       "kddi" : "00EB7E",
       "text" : "カタツムリ",
@@ -5015,6 +5456,9 @@
       "docomo" : "00E751",
       "emoji_id" : "1BD",
       "google" : "0FE1BD",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE1BD",
       "kddi_fallback" : "00E49A",
       "softbank" : "00E019",
@@ -5068,6 +5512,9 @@
       "docomo" : "00E74F",
       "emoji_id" : "1BA",
       "google" : "0FE1BA",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE1BA",
       "kddi" : "00E4E0",
       "softbank" : "00E523",
@@ -5101,6 +5548,9 @@
       "docomo" : "00E750",
       "emoji_id" : "1BC",
       "google" : "0FE1BC",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE1BC",
       "kddi" : "00E4DC",
       "softbank" : "00E055",
@@ -5193,6 +5643,9 @@
       "docomo" : "00E6A2",
       "emoji_id" : "1B8",
       "google" : "0FE1B8",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE1B8",
       "kddi" : "00E4DB",
       "mixi" : [
@@ -5229,6 +5682,9 @@
       "docomo" : "00E754",
       "emoji_id" : "1BE",
       "google" : "0FE1BE",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE1BE",
       "kddi" : "00E4D8",
       "softbank" : "00E01A",
@@ -5250,6 +5706,9 @@
       "docomo" : "00E6A1",
       "emoji_id" : "1B7",
       "google" : "0FE1B7",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE1B7",
       "kddi" : "00E4E1",
       "mixi" : [
@@ -5269,6 +5728,9 @@
       "docomo" : "00E755",
       "emoji_id" : "1BF",
       "google" : "0FE1BF",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE1BF",
       "kddi" : "00E4DE",
       "softbank" : "00E10B",
@@ -5351,6 +5813,9 @@
       "docomo" : "00E691",
       "emoji_id" : "190",
       "google" : "0FE190",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE190",
       "kddi" : "00E5A4",
       "mixi" : [
@@ -5368,6 +5833,9 @@
       "docomo" : "00E692",
       "emoji_id" : "191",
       "google" : "0FE191",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE191",
       "kddi" : "00E5A5",
       "mixi" : [
@@ -5457,6 +5925,9 @@
       "docomo" : "00E6FD",
       "emoji_id" : "B96",
       "google" : "0FEB96",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB96",
       "kddi" : "00E4F3",
       "mixi" : [
@@ -5496,6 +5967,9 @@
       "docomo" : "00E727",
       "emoji_id" : "B97",
       "google" : "0FEB97",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB97",
       "kddi" : "00E4F9",
       "mixi" : [
@@ -5544,6 +6018,9 @@
       "docomo" : "00E71A",
       "emoji_id" : "4D1",
       "google" : "0FE4D1",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4D1",
       "kddi" : "00E5C9",
       "mixi" : [
@@ -5572,6 +6049,9 @@
       "docomo" : "00E69A",
       "emoji_id" : "4CE",
       "google" : "0FE4CE",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4CE",
       "kddi" : "00E4FE",
       "mixi" : [
@@ -5597,6 +6077,9 @@
       "docomo" : "00E70E",
       "emoji_id" : "4CF",
       "google" : "0FE4CF",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4CF",
       "kddi" : "00E5B6",
       "mixi" : [
@@ -5615,6 +6098,9 @@
       "docomo" : "00E711",
       "emoji_id" : "4D0",
       "google" : "0FE4D0",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4D0",
       "kddi" : "00EB77",
       "text" : "ジーンズ",
@@ -5666,6 +6152,9 @@
       "docomo" : "00E70F",
       "emoji_id" : "4DC",
       "google" : "0FE4DC",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4DC",
       "kddi" : "00E504",
       "mixi" : [
@@ -5682,6 +6171,9 @@
       "docomo" : "00E682",
       "emoji_id" : "4F0",
       "google" : "0FE4F0",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4F0",
       "kddi" : "00E49C",
       "mixi" : [
@@ -5701,6 +6193,9 @@
       "docomo" : "00E6AD",
       "emoji_id" : "4F1",
       "google" : "0FE4F1",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4F1",
       "mixi" : [
          "[m:180]",
@@ -5725,6 +6220,9 @@
       "docomo" : "00E699",
       "emoji_id" : "4CD",
       "google" : "0FE4CD",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4CD",
       "kddi" : "00EB2B",
       "mixi" : [
@@ -5743,6 +6241,9 @@
       "docomo" : "00E674",
       "emoji_id" : "4D6",
       "google" : "0FE4D6",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4D6",
       "kddi" : "00E51A",
       "mixi" : [
@@ -5783,6 +6284,9 @@
       "docomo" : "00E698",
       "emoji_id" : "553",
       "google" : "0FE553",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE553",
       "kddi" : "00EB2A",
       "mixi" : [
@@ -5801,6 +6305,9 @@
       "docomo" : "00E6B1",
       "emoji_id" : "19A",
       "google" : "0FE19A",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE19A",
       "mixi" : [
          "[m:182]",
@@ -6091,6 +6598,9 @@
       "docomo" : "00E710",
       "emoji_id" : "195",
       "google" : "0FE195",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE195",
       "kddi" : "00E509",
       "mixi" : [
@@ -6169,6 +6679,9 @@
       "docomo" : "00E6F9",
       "emoji_id" : "823",
       "google" : "0FE823",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE823",
       "kddi" : "00E4EB",
       "mixi" : [
@@ -6190,6 +6703,9 @@
       "docomo" : "00E717",
       "emoji_id" : "824",
       "google" : "0FE824",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE824",
       "kddi" : "00EB78",
       "mixi" : [
@@ -6206,6 +6722,9 @@
       "docomo" : "00E71B",
       "emoji_id" : "825",
       "google" : "0FE825",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE825",
       "kddi" : "00E514",
       "mixi" : [
@@ -6276,6 +6795,9 @@
       "docomo" : "00E6ED",
       "emoji_id" : "B0D",
       "google" : "0FEB0D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB0D",
       "kddi" : "00EB75",
       "mixi" : [
@@ -6296,6 +6818,9 @@
       "docomo" : "00E6EE",
       "emoji_id" : "B0E",
       "google" : "0FEB0E",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB0E",
       "kddi" : "00E477",
       "mixi" : [
@@ -6313,6 +6838,9 @@
       "docomo" : "00E6EF",
       "emoji_id" : "B0F",
       "google" : "0FEB0F",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB0F",
       "kddi" : "00E478",
       "mixi" : [
@@ -6440,6 +6968,9 @@
       "docomo" : "00E6F8",
       "emoji_id" : "B55",
       "google" : "0FEB55",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB55",
       "mixi" : [
          "[m:176]",
@@ -6457,6 +6988,9 @@
       "docomo" : "00E6FB",
       "emoji_id" : "B56",
       "google" : "0FEB56",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB56",
       "kddi" : "00E476",
       "mixi" : [
@@ -6475,6 +7009,9 @@
       "docomo" : "00E6FC",
       "emoji_id" : "B57",
       "google" : "0FEB57",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB57",
       "kddi" : "00E4E5",
       "mixi" : [
@@ -6492,6 +7029,9 @@
       "docomo" : "00E6FE",
       "emoji_id" : "B58",
       "google" : "0FEB58",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB58",
       "kddi" : "00E47A",
       "mixi" : [
@@ -6509,6 +7049,9 @@
       "docomo" : "00E701",
       "emoji_id" : "B59",
       "google" : "0FEB59",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB59",
       "kddi" : "00E475",
       "mixi" : [
@@ -6543,6 +7086,9 @@
       "docomo" : "00E706",
       "emoji_id" : "B5B",
       "google" : "0FEB5B",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB5B",
       "kddi" : "00E5B1",
       "mixi" : [
@@ -6560,6 +7106,9 @@
       "docomo" : "00E707",
       "emoji_id" : "B5C",
       "google" : "0FEB5C",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB5C",
       "kddi" : "00E4E6",
       "mixi" : [
@@ -6576,6 +7125,9 @@
       "docomo" : "00E708",
       "emoji_id" : "B5D",
       "google" : "0FEB5D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB5D",
       "kddi" : "00E4F4",
       "mixi" : [
@@ -6650,6 +7202,9 @@
       "docomo" : "00E715",
       "emoji_id" : "4DD",
       "google" : "0FE4DD",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4DD",
       "kddi" : "00E4C7",
       "mixi" : [
@@ -6696,6 +7251,9 @@
       "docomo" : "00E6D6",
       "emoji_id" : "4E2",
       "google" : "0FE4E2",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4E2",
       "kddi" : "00E57D",
       "mixi" : [
@@ -6741,6 +7299,9 @@
       "docomo" : "00E6B2",
       "emoji_id" : "537",
       "google" : "0FE537",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE537",
       "mixi" : [
          "[m:183]",
@@ -6756,6 +7317,9 @@
       "docomo" : "00E716",
       "emoji_id" : "538",
       "google" : "0FE538",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE538",
       "kddi" : "00E5B8",
       "mixi" : [
@@ -6806,6 +7370,9 @@
       "docomo" : "00E68C",
       "emoji_id" : "81D",
       "google" : "0FE81D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE81D",
       "kddi" : "00E50C",
       "mixi" : [
@@ -6962,6 +7529,9 @@
       "docomo" : "00E730",
       "emoji_id" : "53A",
       "google" : "0FE53A",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE53A",
       "kddi" : "00E4A0",
       "mixi" : [
@@ -7051,6 +7621,9 @@
       "docomo" : "00E683",
       "emoji_id" : "546",
       "google" : "0FE546",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE546",
       "kddi" : "00E49F",
       "mixi" : [
@@ -7140,6 +7713,9 @@
       "docomo" : "00E689",
       "emoji_id" : "527",
       "google" : "0FE527",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE527",
       "kddi" : "00EA92",
       "mixi" : [
@@ -7174,6 +7750,9 @@
       "docomo" : "00E65A",
       "emoji_id" : "522",
       "google" : "0FE522",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE522",
       "kddi" : "00E59B",
       "mixi" : [
@@ -7190,6 +7769,9 @@
       "docomo" : "00E6D0",
       "emoji_id" : "528",
       "google" : "0FE528",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE528",
       "kddi" : "00E520",
       "mixi" : [
@@ -7288,6 +7870,9 @@
       "docomo" : "00E6CF",
       "emoji_id" : "52B",
       "google" : "0FE52B",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE52B",
       "kddi" : "00EB62",
       "mixi" : [
@@ -7348,6 +7933,9 @@
       "docomo" : "00E688",
       "emoji_id" : "525",
       "google" : "0FE525",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE525",
       "hatena_00e000" : "00E013",
       "kddi" : "00E588",
@@ -7366,6 +7954,9 @@
       "docomo" : "00E6CE",
       "emoji_id" : "526",
       "google" : "0FE526",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE526",
       "kddi" : "00EB08",
       "mixi" : [
@@ -7413,6 +8004,9 @@
       "docomo" : "00E681",
       "emoji_id" : "4EF",
       "google" : "0FE4EF",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4EF",
       "kddi" : "00E515",
       "mixi" : [
@@ -7441,6 +8035,9 @@
       "docomo" : "00E68A",
       "emoji_id" : "81C",
       "google" : "0FE81C",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE81C",
       "kddi" : "00E502",
       "mixi" : [
@@ -7516,6 +8113,9 @@
       "docomo" : "00E6DC",
       "emoji_id" : "B85",
       "google" : "0FEB85",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB85",
       "kddi" : "00E518",
       "mixi" : [
@@ -7567,6 +8167,9 @@
       "docomo" : "00E6D9",
       "emoji_id" : "B82",
       "google" : "0FEB82",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB82",
       "kddi" : "00E519",
       "mixi" : [
@@ -7611,6 +8214,9 @@
       "docomo" : "00E713",
       "emoji_id" : "4F2",
       "google" : "0FE4F2",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4F2",
       "kddi" : "00E512",
       "mixi" : [
@@ -7664,6 +8270,9 @@
       "docomo" : "00E6B9",
       "emoji_id" : "01A",
       "google" : "0FE01A",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE01A",
       "mixi" : [
          "[m:187]",
@@ -7677,6 +8286,9 @@
       "docomo" : "00E6B8",
       "emoji_id" : "019",
       "google" : "0FE019",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE019",
       "mixi" : [
          "[m:186]",
@@ -7690,6 +8302,9 @@
       "docomo" : "00E6B7",
       "emoji_id" : "018",
       "google" : "0FE018",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE018",
       "mixi" : [
          "[m:185]",
@@ -7796,6 +8411,9 @@
       "docomo" : "00E718",
       "emoji_id" : "4C9",
       "google" : "0FE4C9",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4C9",
       "kddi" : "00E587",
       "mixi" : [
@@ -8142,6 +8760,9 @@
       "docomo" : "00E740",
       "emoji_id" : "4C3",
       "google" : "0FE4C3",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4C3",
       "kddi" : "00E5BD",
       "softbank" : "00E03B",
@@ -8212,6 +8833,9 @@
       "docomo" : "00E6F0",
       "emoji_id" : "330",
       "google" : "0FE330",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE330",
       "kddi" : "00E471",
       "mixi" : [
@@ -8252,6 +8876,9 @@
       "docomo" : "00E722",
       "emoji_id" : "331",
       "google" : "0FE331",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE331",
       "mixi" : [
          "[m:226]",
@@ -8267,6 +8894,9 @@
       "docomo" : "00E72A",
       "emoji_id" : "332",
       "google" : "0FE332",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE332",
       "kddi_fallback" : "00EAC5",
       "mixi" : [
@@ -8302,6 +8932,9 @@
       "docomo_fallback" : "00E6F0",
       "emoji_id" : "335",
       "google" : "0FE335",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE335",
       "kddi" : "00EACD",
       "softbank" : "00E056",
@@ -8313,6 +8946,9 @@
       "docomo" : "00E752",
       "emoji_id" : "32B",
       "google" : "0FE32B",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE32B",
       "kddi_fallback" : "00EACD",
       "softbank_fallback" : "00E056",
@@ -8324,6 +8960,9 @@
       "docomo" : "00E721",
       "emoji_id" : "33E",
       "google" : "0FE33E",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE33E",
       "kddi" : "00EAC5",
       "mixi" : [
@@ -8341,6 +8980,9 @@
       "docomo" : "00E726",
       "emoji_id" : "327",
       "google" : "0FE327",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE327",
       "kddi" : "00E5C4",
       "mixi" : [
@@ -8375,6 +9017,9 @@
       "docomo" : "00E725",
       "emoji_id" : "326",
       "google" : "0FE326",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE326",
       "kddi" : "00EAC9",
       "mixi" : [
@@ -8408,6 +9053,9 @@
       "docomo" : "00E720",
       "emoji_id" : "340",
       "google" : "0FE340",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE340",
       "kddi" : "00EAC0",
       "mixi" : [
@@ -8424,6 +9072,9 @@
       "docomo" : "00E6F3",
       "emoji_id" : "33F",
       "google" : "0FE33F",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE33F",
       "kddi" : "00EAC3",
       "mixi" : [
@@ -8444,6 +9095,9 @@
       "docomo_fallback" : "00E726",
       "emoji_id" : "32C",
       "google" : "0FE32C",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE32C",
       "kddi" : "00EACF",
       "softbank" : "00E418",
@@ -8466,6 +9120,9 @@
       "docomo" : "00E728",
       "emoji_id" : "329",
       "google" : "0FE329",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE329",
       "kddi" : "00E4E7",
       "mixi" : [
@@ -8495,6 +9152,9 @@
       "docomo" : "00E6F2",
       "emoji_id" : "323",
       "google" : "0FE323",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE323",
       "kddi_fallback" : "00EAC0",
       "mixi" : [
@@ -8511,6 +9171,9 @@
       "docomo" : "00E6F1",
       "emoji_id" : "320",
       "google" : "0FE320",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE320",
       "kddi" : "00E472",
       "mixi" : [
@@ -8528,6 +9191,9 @@
       "docomo" : "00E724",
       "emoji_id" : "33D",
       "google" : "0FE33D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE33D",
       "kddi" : "00EB5D",
       "mixi" : [
@@ -8546,6 +9212,9 @@
       "docomo" : "00E72E",
       "emoji_id" : "339",
       "google" : "0FE339",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE339",
       "kddi" : "00EB69",
       "mixi" : [
@@ -8614,6 +9283,9 @@
       "docomo_fallback" : "00E6F3",
       "emoji_id" : "321",
       "google" : "0FE321",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE321",
       "kddi" : "00EB67",
       "softbank_fallback" : "00E403",
@@ -8647,6 +9319,9 @@
       "docomo" : "00E72D",
       "emoji_id" : "33A",
       "google" : "0FE33A",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE33A",
       "kddi" : "00E473",
       "mixi" : [
@@ -8668,6 +9343,9 @@
       "docomo_fallback" : "00E723",
       "emoji_id" : "325",
       "google" : "0FE325",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE325",
       "kddi" : "00EACB",
       "softbank" : "00E40F",
@@ -8690,6 +9368,9 @@
       "docomo_fallback" : "00E6F4",
       "emoji_id" : "322",
       "google" : "0FE322",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE322",
       "kddi" : "00EACA",
       "softbank" : "00E410",
@@ -8712,6 +9393,9 @@
       "docomo" : "00E6F4",
       "emoji_id" : "324",
       "google" : "0FE324",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE324",
       "kddi" : "00E5AE",
       "mixi" : [
@@ -8740,6 +9424,9 @@
       "docomo_fallback" : "00E753",
       "emoji_id" : "349",
       "google" : "0FE349",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE349",
       "kddi" : "00EB7F",
       "softbank_fallback" : "00E404",
@@ -8960,6 +9647,9 @@
       "docomo" : "00E65B",
       "emoji_id" : "7DF",
       "google" : "0FE7DF",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7DF",
       "kddi" : "00E4B5",
       "mixi" : [
@@ -8978,6 +9668,9 @@
       "docomo" : "00E65D",
       "emoji_id" : "7E2",
       "google" : "0FE7E2",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7E2",
       "kddi_fallback" : "00E4B0",
       "mixi" : [
@@ -9007,6 +9700,9 @@
       "docomo_fallback" : "00E65C",
       "emoji_id" : "7E0",
       "google" : "0FE7E0",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7E0",
       "kddi" : "00E5BC",
       "softbank" : "00E434",
@@ -9028,6 +9724,9 @@
       "docomo" : "00E660",
       "emoji_id" : "7E6",
       "google" : "0FE7E6",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7E6",
       "kddi" : "00E4AF",
       "mixi" : [
@@ -9098,6 +9797,9 @@
       "docomo" : "00E65E",
       "emoji_id" : "7E4",
       "google" : "0FE7E4",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7E4",
       "kddi" : "00E4B1",
       "mixi" : [
@@ -9116,6 +9818,9 @@
       "docomo" : "00E65F",
       "emoji_id" : "7E5",
       "google" : "0FE7E5",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7E5",
       "kddi_fallback" : "00E4B1",
       "softbank" : "00E42E",
@@ -9137,6 +9842,9 @@
       "docomo" : "00E661",
       "emoji_id" : "7E8",
       "google" : "0FE7E8",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7E8",
       "kddi" : "00EA82",
       "softbank" : "00E202",
@@ -9159,6 +9867,9 @@
       "docomo" : "00E66D",
       "emoji_id" : "7F7",
       "google" : "0FE7F7",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7F7",
       "kddi" : "00E46A",
       "mixi" : [
@@ -9196,6 +9907,9 @@
       "docomo" : "00E6DE",
       "emoji_id" : "B22",
       "google" : "0FEB22",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB22",
       "kddi" : "00EB2C",
       "mixi" : [
@@ -9212,6 +9926,9 @@
       "docomo" : "00E714",
       "emoji_id" : "4F3",
       "google" : "0FE4F3",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4F3",
       "mixi" : [
          "[m:213]",
@@ -9227,6 +9944,9 @@
       "docomo_fallback" : "00E738",
       "emoji_id" : "B48",
       "google" : "0FEB48",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB48",
       "kddi" : "00E541",
       "text" : "禁止",
@@ -9237,6 +9957,9 @@
       "docomo" : "00E67F",
       "emoji_id" : "B1E",
       "google" : "0FEB1E",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB1E",
       "kddi" : "00E47D",
       "mixi" : [
@@ -9254,6 +9977,9 @@
       "docomo" : "00E680",
       "emoji_id" : "B1F",
       "google" : "0FEB1F",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB1F",
       "kddi" : "00E47E",
       "mixi" : [
@@ -9271,6 +9997,9 @@
       "docomo" : "00E71D",
       "emoji_id" : "7EB",
       "google" : "0FE7EB",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7EB",
       "kddi" : "00E4AE",
       "mixi" : [
@@ -9315,6 +10044,9 @@
       "docomo" : "00E66E",
       "emoji_id" : "506",
       "google" : "0FE506",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE506",
       "kddi" : "00E4A5",
       "mixi" : [
@@ -9393,6 +10125,9 @@
    },
    "0FA731" : {
       "emoji_id" : "h31",
+      "has_image" : {
+         "black_16x16_png" : 1
+      },
       "hatena" : "0FA731",
       "image_url" : "http://www.hatena.ne.jp/images/hatenaemoji/hatenaext/FA731.png",
       "text" : "black star left half with white star right half"
@@ -9533,6 +10268,9 @@
       "docomo" : "00E63E",
       "emoji_id" : "000",
       "google" : "0FE000",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE000",
       "hatena_00e000" : "00E00C",
       "kddi" : "00E488",
@@ -9555,6 +10293,9 @@
       "docomo" : "00E63F",
       "emoji_id" : "001",
       "google" : "0FE001",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE001",
       "hatena_00e000" : "00E00D",
       "kddi" : "00E48D",
@@ -9574,6 +10315,9 @@
       "docomo" : "00E640",
       "emoji_id" : "002",
       "google" : "0FE002",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE002",
       "kddi" : "00E48C",
       "mixi" : [
@@ -9590,6 +10334,9 @@
       "docomo" : "00E641",
       "emoji_id" : "003",
       "google" : "0FE003",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE003",
       "hatena_00e000" : "00E00F",
       "kddi" : "00E485",
@@ -9610,6 +10357,9 @@
       "docomo" : "00E642",
       "emoji_id" : "004",
       "google" : "0FE004",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE004",
       "kddi" : "00E487",
       "mixi" : [
@@ -9626,6 +10376,9 @@
       "docomo" : "00E643",
       "emoji_id" : "005",
       "google" : "0FE005",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE005",
       "kddi" : "00E469",
       "mixi" : [
@@ -9643,6 +10396,9 @@
       "docomo" : "00E644",
       "emoji_id" : "006",
       "google" : "0FE006",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE006",
       "kddi" : "00E598",
       "mixi" : [
@@ -9659,6 +10415,9 @@
       "docomo" : "00E645",
       "emoji_id" : "007",
       "google" : "0FE007",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE007",
       "kddi" : "00EAE8",
       "mixi" : [
@@ -9675,6 +10434,9 @@
       "docomo" : "00E6B3",
       "emoji_id" : "008",
       "google" : "0FE008",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE008",
       "kddi" : "00EAF1",
       "mixi" : [
@@ -9768,6 +10530,9 @@
       "docomo" : "00E69C",
       "emoji_id" : "011",
       "google" : "0FE011",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE011",
       "kddi" : "00E5A8",
       "mixi" : [
@@ -9789,6 +10554,9 @@
       "docomo" : "00E69D",
       "emoji_id" : "012",
       "google" : "0FE012",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE012",
       "kddi" : "00E5A9",
       "mixi" : [
@@ -9804,6 +10572,9 @@
       "docomo" : "00E69E",
       "emoji_id" : "013",
       "google" : "0FE013",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE013",
       "kddi" : "00E5AA",
       "mixi" : [
@@ -9820,6 +10591,9 @@
       "docomo" : "00E69F",
       "emoji_id" : "014",
       "google" : "0FE014",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE014",
       "kddi" : "00E486",
       "mixi" : [
@@ -9836,6 +10610,9 @@
       "docomo" : "00E6A0",
       "emoji_id" : "015",
       "google" : "0FE015",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE015",
       "mixi" : [
          "[m:149]",
@@ -9869,6 +10646,9 @@
       "docomo" : "00E6B7",
       "emoji_id" : "018",
       "google" : "0FE018",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE018",
       "mixi" : [
          "[m:185]",
@@ -9881,6 +10661,9 @@
       "docomo" : "00E6B8",
       "emoji_id" : "019",
       "google" : "0FE019",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE019",
       "mixi" : [
          "[m:186]",
@@ -9893,6 +10676,9 @@
       "docomo" : "00E6B9",
       "emoji_id" : "01A",
       "google" : "0FE01A",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE01A",
       "mixi" : [
          "[m:187]",
@@ -9905,6 +10691,9 @@
       "docomo" : "00E71C",
       "emoji_id" : "01B",
       "google" : "0FE01B",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE01B",
       "kddi" : "00E47C",
       "mixi" : [
@@ -9931,6 +10720,9 @@
       "docomo" : "00E71F",
       "emoji_id" : "01D",
       "google" : "0FE01D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE01D",
       "kddi" : "00E57A",
       "mixi" : [
@@ -10065,6 +10857,9 @@
       "docomo" : "00E6BA",
       "emoji_id" : "02A",
       "google" : "0FE02A",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE02A",
       "hatena_00e000" : "00E007",
       "kddi" : "00E594",
@@ -10094,6 +10889,9 @@
       "docomo" : "00E646",
       "emoji_id" : "02B",
       "google" : "0FE02B",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE02B",
       "kddi" : "00E48F",
       "mixi" : [
@@ -10111,6 +10909,9 @@
       "docomo" : "00E647",
       "emoji_id" : "02C",
       "google" : "0FE02C",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE02C",
       "kddi" : "00E490",
       "mixi" : [
@@ -10128,6 +10929,9 @@
       "docomo" : "00E648",
       "emoji_id" : "02D",
       "google" : "0FE02D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE02D",
       "kddi" : "00E491",
       "mixi" : [
@@ -10145,6 +10949,9 @@
       "docomo" : "00E649",
       "emoji_id" : "02E",
       "google" : "0FE02E",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE02E",
       "kddi" : "00E492",
       "mixi" : [
@@ -10162,6 +10969,9 @@
       "docomo" : "00E64A",
       "emoji_id" : "02F",
       "google" : "0FE02F",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE02F",
       "kddi" : "00E493",
       "mixi" : [
@@ -10179,6 +10989,9 @@
       "docomo" : "00E64B",
       "emoji_id" : "030",
       "google" : "0FE030",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE030",
       "kddi" : "00E494",
       "mixi" : [
@@ -10196,6 +11009,9 @@
       "docomo" : "00E64C",
       "emoji_id" : "031",
       "google" : "0FE031",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE031",
       "kddi" : "00E495",
       "mixi" : [
@@ -10213,6 +11029,9 @@
       "docomo" : "00E64D",
       "emoji_id" : "032",
       "google" : "0FE032",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE032",
       "kddi" : "00E496",
       "mixi" : [
@@ -10230,6 +11049,9 @@
       "docomo" : "00E64E",
       "emoji_id" : "033",
       "google" : "0FE033",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE033",
       "kddi" : "00E497",
       "mixi" : [
@@ -10247,6 +11069,9 @@
       "docomo" : "00E64F",
       "emoji_id" : "034",
       "google" : "0FE034",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE034",
       "kddi" : "00E498",
       "mixi" : [
@@ -10264,6 +11089,9 @@
       "docomo" : "00E650",
       "emoji_id" : "035",
       "google" : "0FE035",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE035",
       "kddi" : "00E499",
       "mixi" : [
@@ -10281,6 +11109,9 @@
       "docomo" : "00E651",
       "emoji_id" : "036",
       "google" : "0FE036",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE036",
       "kddi" : "00E49A",
       "mixi" : [
@@ -10306,6 +11137,9 @@
       "docomo" : "00E73F",
       "emoji_id" : "038",
       "google" : "0FE038",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE038",
       "kddi" : "00EB7C",
       "softbank" : "00E43E",
@@ -10342,6 +11176,9 @@
       "docomo" : "00E741",
       "emoji_id" : "03C",
       "google" : "0FE03C",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE03C",
       "kddi" : "00E513",
       "softbank" : "00E110",
@@ -10352,6 +11189,9 @@
       "docomo" : "00E743",
       "emoji_id" : "03D",
       "google" : "0FE03D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE03D",
       "kddi" : "00E4E4",
       "softbank" : "00E304",
@@ -10362,6 +11202,9 @@
       "docomo" : "00E746",
       "emoji_id" : "03E",
       "google" : "0FE03E",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE03E",
       "kddi" : "00EB7D",
       "softbank_fallback" : "00E110",
@@ -10372,6 +11215,9 @@
       "docomo" : "00E747",
       "emoji_id" : "03F",
       "google" : "0FE03F",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE03F",
       "kddi" : "00E4CE",
       "softbank" : "00E118",
@@ -10382,6 +11228,9 @@
       "docomo" : "00E748",
       "emoji_id" : "040",
       "google" : "0FE040",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE040",
       "kddi" : "00E4CA",
       "softbank" : "00E030",
@@ -10516,6 +11365,9 @@
       "docomo" : "00E742",
       "emoji_id" : "04F",
       "google" : "0FE04F",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE04F",
       "kddi" : "00E4D2",
       "text" : "さくらんぼ",
@@ -10525,6 +11377,9 @@
       "docomo" : "00E744",
       "emoji_id" : "050",
       "google" : "0FE050",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE050",
       "kddi" : "00EB35",
       "text" : "バナナ",
@@ -10534,6 +11389,9 @@
       "docomo" : "00E745",
       "emoji_id" : "051",
       "google" : "0FE051",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE051",
       "kddi" : "00EAB9",
       "softbank" : "00E345",
@@ -10631,6 +11489,9 @@
       "docomo" : "00E691",
       "emoji_id" : "190",
       "google" : "0FE190",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE190",
       "kddi" : "00E5A4",
       "mixi" : [
@@ -10647,6 +11508,9 @@
       "docomo" : "00E692",
       "emoji_id" : "191",
       "google" : "0FE191",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE191",
       "kddi" : "00E5A5",
       "mixi" : [
@@ -10692,6 +11556,9 @@
       "docomo" : "00E710",
       "emoji_id" : "195",
       "google" : "0FE195",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE195",
       "kddi" : "00E509",
       "mixi" : [
@@ -10745,6 +11612,9 @@
       "docomo" : "00E6B1",
       "emoji_id" : "19A",
       "google" : "0FE19A",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE19A",
       "mixi" : [
          "[m:182]",
@@ -11006,6 +11876,9 @@
       "docomo" : "00E6A1",
       "emoji_id" : "1B7",
       "google" : "0FE1B7",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE1B7",
       "kddi" : "00E4E1",
       "mixi" : [
@@ -11024,6 +11897,9 @@
       "docomo" : "00E6A2",
       "emoji_id" : "1B8",
       "google" : "0FE1B8",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE1B8",
       "kddi" : "00E4DB",
       "mixi" : [
@@ -11040,6 +11916,9 @@
       "docomo" : "00E74E",
       "emoji_id" : "1B9",
       "google" : "0FE1B9",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE1B9",
       "kddi" : "00EB7E",
       "text" : "カタツムリ",
@@ -11049,6 +11928,9 @@
       "docomo" : "00E74F",
       "emoji_id" : "1BA",
       "google" : "0FE1BA",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE1BA",
       "kddi" : "00E4E0",
       "softbank" : "00E523",
@@ -11069,6 +11951,9 @@
       "docomo" : "00E750",
       "emoji_id" : "1BC",
       "google" : "0FE1BC",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE1BC",
       "kddi" : "00E4DC",
       "softbank" : "00E055",
@@ -11079,6 +11964,9 @@
       "docomo" : "00E751",
       "emoji_id" : "1BD",
       "google" : "0FE1BD",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE1BD",
       "kddi_fallback" : "00E49A",
       "softbank" : "00E019",
@@ -11089,6 +11977,9 @@
       "docomo" : "00E754",
       "emoji_id" : "1BE",
       "google" : "0FE1BE",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE1BE",
       "kddi" : "00E4D8",
       "softbank" : "00E01A",
@@ -11099,6 +11990,9 @@
       "docomo" : "00E755",
       "emoji_id" : "1BF",
       "google" : "0FE1BF",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE1BF",
       "kddi" : "00E4DE",
       "softbank" : "00E10B",
@@ -11432,6 +12326,9 @@
       "docomo" : "00E6F1",
       "emoji_id" : "320",
       "google" : "0FE320",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE320",
       "kddi" : "00E472",
       "mixi" : [
@@ -11448,6 +12345,9 @@
       "docomo_fallback" : "00E6F3",
       "emoji_id" : "321",
       "google" : "0FE321",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE321",
       "kddi" : "00EB67",
       "softbank_fallback" : "00E403",
@@ -11458,6 +12358,9 @@
       "docomo_fallback" : "00E6F4",
       "emoji_id" : "322",
       "google" : "0FE322",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE322",
       "kddi" : "00EACA",
       "softbank" : "00E410",
@@ -11468,6 +12371,9 @@
       "docomo" : "00E6F2",
       "emoji_id" : "323",
       "google" : "0FE323",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE323",
       "kddi_fallback" : "00EAC0",
       "mixi" : [
@@ -11483,6 +12389,9 @@
       "docomo" : "00E6F4",
       "emoji_id" : "324",
       "google" : "0FE324",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE324",
       "kddi" : "00E5AE",
       "mixi" : [
@@ -11500,6 +12409,9 @@
       "docomo_fallback" : "00E723",
       "emoji_id" : "325",
       "google" : "0FE325",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE325",
       "kddi" : "00EACB",
       "softbank" : "00E40F",
@@ -11510,6 +12422,9 @@
       "docomo" : "00E725",
       "emoji_id" : "326",
       "google" : "0FE326",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE326",
       "kddi" : "00EAC9",
       "mixi" : [
@@ -11525,6 +12440,9 @@
       "docomo" : "00E726",
       "emoji_id" : "327",
       "google" : "0FE327",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE327",
       "kddi" : "00E5C4",
       "mixi" : [
@@ -11551,6 +12469,9 @@
       "docomo" : "00E728",
       "emoji_id" : "329",
       "google" : "0FE329",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE329",
       "kddi" : "00E4E7",
       "mixi" : [
@@ -11578,6 +12499,9 @@
       "docomo" : "00E752",
       "emoji_id" : "32B",
       "google" : "0FE32B",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE32B",
       "kddi_fallback" : "00EACD",
       "softbank_fallback" : "00E056",
@@ -11588,6 +12512,9 @@
       "docomo_fallback" : "00E726",
       "emoji_id" : "32C",
       "google" : "0FE32C",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE32C",
       "kddi" : "00EACF",
       "softbank" : "00E418",
@@ -11627,6 +12554,9 @@
       "docomo" : "00E6F0",
       "emoji_id" : "330",
       "google" : "0FE330",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE330",
       "kddi" : "00E471",
       "mixi" : [
@@ -11655,6 +12585,9 @@
       "docomo" : "00E722",
       "emoji_id" : "331",
       "google" : "0FE331",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE331",
       "mixi" : [
          "[m:226]",
@@ -11669,6 +12602,9 @@
       "docomo" : "00E72A",
       "emoji_id" : "332",
       "google" : "0FE332",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE332",
       "kddi_fallback" : "00EAC5",
       "mixi" : [
@@ -11707,6 +12643,9 @@
       "docomo_fallback" : "00E6F0",
       "emoji_id" : "335",
       "google" : "0FE335",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE335",
       "kddi" : "00EACD",
       "softbank" : "00E056",
@@ -11747,6 +12686,9 @@
       "docomo" : "00E72E",
       "emoji_id" : "339",
       "google" : "0FE339",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE339",
       "kddi" : "00EB69",
       "mixi" : [
@@ -11764,6 +12706,9 @@
       "docomo" : "00E72D",
       "emoji_id" : "33A",
       "google" : "0FE33A",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE33A",
       "kddi" : "00E473",
       "mixi" : [
@@ -11810,6 +12755,9 @@
       "docomo" : "00E724",
       "emoji_id" : "33D",
       "google" : "0FE33D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE33D",
       "kddi" : "00EB5D",
       "mixi" : [
@@ -11827,6 +12775,9 @@
       "docomo" : "00E721",
       "emoji_id" : "33E",
       "google" : "0FE33E",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE33E",
       "kddi" : "00EAC5",
       "mixi" : [
@@ -11843,6 +12794,9 @@
       "docomo" : "00E6F3",
       "emoji_id" : "33F",
       "google" : "0FE33F",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE33F",
       "kddi" : "00EAC3",
       "mixi" : [
@@ -11862,6 +12816,9 @@
       "docomo" : "00E720",
       "emoji_id" : "340",
       "google" : "0FE340",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE340",
       "kddi" : "00EAC0",
       "mixi" : [
@@ -11974,6 +12931,9 @@
       "docomo_fallback" : "00E753",
       "emoji_id" : "349",
       "google" : "0FE349",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE349",
       "kddi" : "00EB7F",
       "softbank_fallback" : "00E404",
@@ -12238,6 +13198,9 @@
       "docomo" : "00E663",
       "emoji_id" : "4B0",
       "google" : "0FE4B0",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4B0",
       "kddi" : "00E4AB",
       "mixi" : [
@@ -12265,6 +13228,9 @@
       "docomo" : "00E664",
       "emoji_id" : "4B2",
       "google" : "0FE4B2",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4B2",
       "kddi" : "00E4AD",
       "mixi" : [
@@ -12282,6 +13248,9 @@
       "docomo" : "00E665",
       "emoji_id" : "4B3",
       "google" : "0FE4B3",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4B3",
       "kddi" : "00E5DE",
       "mixi" : [
@@ -12302,6 +13271,9 @@
       "docomo" : "00E666",
       "emoji_id" : "4B4",
       "google" : "0FE4B4",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4B4",
       "kddi" : "00E5DF",
       "mixi" : [
@@ -12319,6 +13291,9 @@
       "docomo" : "00E667",
       "emoji_id" : "4B5",
       "google" : "0FE4B5",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4B5",
       "kddi" : "00E4AA",
       "mixi" : [
@@ -12335,6 +13310,9 @@
       "docomo" : "00E668",
       "emoji_id" : "4B6",
       "google" : "0FE4B6",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4B6",
       "kddi" : "00E4A3",
       "mixi" : [
@@ -12351,6 +13329,9 @@
       "docomo" : "00E669",
       "emoji_id" : "4B7",
       "google" : "0FE4B7",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4B7",
       "kddi" : "00EA81",
       "mixi" : [
@@ -12376,6 +13357,9 @@
       "docomo" : "00E66A",
       "emoji_id" : "4B9",
       "google" : "0FE4B9",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4B9",
       "kddi" : "00E4A4",
       "mixi" : [
@@ -12392,6 +13376,9 @@
       "docomo" : "00E73E",
       "emoji_id" : "4BA",
       "google" : "0FE4BA",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4BA",
       "kddi" : "00EA80",
       "softbank" : "00E157",
@@ -12477,6 +13464,9 @@
       "docomo" : "00E740",
       "emoji_id" : "4C3",
       "google" : "0FE4C3",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4C3",
       "kddi" : "00E5BD",
       "softbank" : "00E03B",
@@ -12527,6 +13517,9 @@
       "docomo" : "00E718",
       "emoji_id" : "4C9",
       "google" : "0FE4C9",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4C9",
       "kddi" : "00E587",
       "mixi" : [
@@ -12569,6 +13562,9 @@
       "docomo" : "00E699",
       "emoji_id" : "4CD",
       "google" : "0FE4CD",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4CD",
       "kddi" : "00EB2B",
       "mixi" : [
@@ -12586,6 +13582,9 @@
       "docomo" : "00E69A",
       "emoji_id" : "4CE",
       "google" : "0FE4CE",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4CE",
       "kddi" : "00E4FE",
       "mixi" : [
@@ -12600,6 +13599,9 @@
       "docomo" : "00E70E",
       "emoji_id" : "4CF",
       "google" : "0FE4CF",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4CF",
       "kddi" : "00E5B6",
       "mixi" : [
@@ -12617,6 +13619,9 @@
       "docomo" : "00E711",
       "emoji_id" : "4D0",
       "google" : "0FE4D0",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4D0",
       "kddi" : "00EB77",
       "text" : "ジーンズ",
@@ -12626,6 +13631,9 @@
       "docomo" : "00E71A",
       "emoji_id" : "4D1",
       "google" : "0FE4D1",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4D1",
       "kddi" : "00E5C9",
       "mixi" : [
@@ -12680,6 +13688,9 @@
       "docomo" : "00E674",
       "emoji_id" : "4D6",
       "google" : "0FE4D6",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4D6",
       "kddi" : "00E51A",
       "mixi" : [
@@ -12745,6 +13756,9 @@
       "docomo" : "00E70F",
       "emoji_id" : "4DC",
       "google" : "0FE4DC",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4DC",
       "kddi" : "00E504",
       "mixi" : [
@@ -12760,6 +13774,9 @@
       "docomo" : "00E715",
       "emoji_id" : "4DD",
       "google" : "0FE4DD",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4DD",
       "kddi" : "00E4C7",
       "mixi" : [
@@ -12811,6 +13828,9 @@
       "docomo" : "00E6D6",
       "emoji_id" : "4E2",
       "google" : "0FE4E2",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4E2",
       "kddi" : "00E57D",
       "mixi" : [
@@ -12963,6 +13983,9 @@
       "docomo" : "00E681",
       "emoji_id" : "4EF",
       "google" : "0FE4EF",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4EF",
       "kddi" : "00E515",
       "mixi" : [
@@ -12979,6 +14002,9 @@
       "docomo" : "00E682",
       "emoji_id" : "4F0",
       "google" : "0FE4F0",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4F0",
       "kddi" : "00E49C",
       "mixi" : [
@@ -12997,6 +14023,9 @@
       "docomo" : "00E6AD",
       "emoji_id" : "4F1",
       "google" : "0FE4F1",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4F1",
       "mixi" : [
          "[m:180]",
@@ -13009,6 +14038,9 @@
       "docomo" : "00E713",
       "emoji_id" : "4F2",
       "google" : "0FE4F2",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4F2",
       "kddi" : "00E512",
       "mixi" : [
@@ -13024,6 +14056,9 @@
       "docomo" : "00E714",
       "emoji_id" : "4F3",
       "google" : "0FE4F3",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE4F3",
       "mixi" : [
          "[m:213]",
@@ -13203,6 +14238,9 @@
       "docomo" : "00E66E",
       "emoji_id" : "506",
       "google" : "0FE506",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE506",
       "kddi" : "00E4A5",
       "mixi" : [
@@ -13298,6 +14336,9 @@
       "docomo" : "00E684",
       "emoji_id" : "50F",
       "google" : "0FE50F",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE50F",
       "kddi" : "00E59F",
       "mixi" : [
@@ -13314,6 +14355,9 @@
       "docomo" : "00E685",
       "emoji_id" : "510",
       "google" : "0FE510",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE510",
       "kddi" : "00E4CF",
       "mixi" : [
@@ -13331,6 +14375,9 @@
       "docomo" : "00E686",
       "emoji_id" : "511",
       "google" : "0FE511",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE511",
       "kddi" : "00E5A0",
       "mixi" : [
@@ -13347,6 +14394,9 @@
       "docomo" : "00E6A4",
       "emoji_id" : "512",
       "google" : "0FE512",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE512",
       "kddi" : "00E4C9",
       "mixi" : [
@@ -13496,6 +14546,9 @@
       "docomo" : "00E65A",
       "emoji_id" : "522",
       "google" : "0FE522",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE522",
       "kddi" : "00E59B",
       "mixi" : [
@@ -13512,6 +14565,9 @@
       "docomo" : "00E687",
       "emoji_id" : "523",
       "google" : "0FE523",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE523",
       "kddi" : "00E596",
       "mixi" : [
@@ -13539,6 +14595,9 @@
       "docomo" : "00E688",
       "emoji_id" : "525",
       "google" : "0FE525",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE525",
       "hatena_00e000" : "00E013",
       "kddi" : "00E588",
@@ -13556,6 +14615,9 @@
       "docomo" : "00E6CE",
       "emoji_id" : "526",
       "google" : "0FE526",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE526",
       "kddi" : "00EB08",
       "mixi" : [
@@ -13572,6 +14634,9 @@
       "docomo" : "00E689",
       "emoji_id" : "527",
       "google" : "0FE527",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE527",
       "kddi" : "00EA92",
       "mixi" : [
@@ -13594,6 +14659,9 @@
       "docomo" : "00E6D0",
       "emoji_id" : "528",
       "google" : "0FE528",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE528",
       "kddi" : "00E520",
       "mixi" : [
@@ -13611,6 +14679,9 @@
       "docomo" : "00E6D3",
       "emoji_id" : "529",
       "google" : "0FE529",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE529",
       "hatena_00e000" : "00E012",
       "kddi" : "00E521",
@@ -13638,6 +14709,9 @@
       "docomo" : "00E6CF",
       "emoji_id" : "52B",
       "google" : "0FE52B",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE52B",
       "kddi" : "00EB62",
       "mixi" : [
@@ -13747,6 +14821,9 @@
       "docomo" : "00E6AE",
       "emoji_id" : "536",
       "google" : "0FE536",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE536",
       "kddi" : "00EB03",
       "mixi" : [
@@ -13761,6 +14838,9 @@
       "docomo" : "00E6B2",
       "emoji_id" : "537",
       "google" : "0FE537",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE537",
       "mixi" : [
          "[m:183]",
@@ -13775,6 +14855,9 @@
       "docomo" : "00E716",
       "emoji_id" : "538",
       "google" : "0FE538",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE538",
       "kddi" : "00E5B8",
       "mixi" : [
@@ -13794,6 +14877,9 @@
       "docomo" : "00E719",
       "emoji_id" : "539",
       "google" : "0FE539",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE539",
       "kddi" : "00E4A1",
       "mixi" : [
@@ -13810,6 +14896,9 @@
       "docomo" : "00E730",
       "emoji_id" : "53A",
       "google" : "0FE53A",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE53A",
       "kddi" : "00E4A0",
       "mixi" : [
@@ -13854,6 +14943,9 @@
       "docomo" : "00E675",
       "emoji_id" : "53E",
       "google" : "0FE53E",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE53E",
       "kddi" : "00E516",
       "mixi" : [
@@ -13933,6 +15025,9 @@
       "docomo" : "00E683",
       "emoji_id" : "546",
       "google" : "0FE546",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE546",
       "kddi" : "00E49F",
       "mixi" : [
@@ -14066,6 +15161,9 @@
       "docomo" : "00E698",
       "emoji_id" : "553",
       "google" : "0FE553",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE553",
       "kddi" : "00EB2A",
       "mixi" : [
@@ -14239,6 +15337,9 @@
       "docomo" : "00E652",
       "emoji_id" : "7D0",
       "google" : "0FE7D0",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D0",
       "mixi" : [
          "[m:115]",
@@ -14251,6 +15352,9 @@
       "docomo" : "00E653",
       "emoji_id" : "7D1",
       "google" : "0FE7D1",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D1",
       "kddi" : "00E4BA",
       "mixi" : [
@@ -14267,6 +15371,9 @@
       "docomo" : "00E654",
       "emoji_id" : "7D2",
       "google" : "0FE7D2",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D2",
       "kddi" : "00E599",
       "mixi" : [
@@ -14283,6 +15390,9 @@
       "docomo" : "00E655",
       "emoji_id" : "7D3",
       "google" : "0FE7D3",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D3",
       "kddi" : "00E4B7",
       "mixi" : [
@@ -14299,6 +15409,9 @@
       "docomo" : "00E656",
       "emoji_id" : "7D4",
       "google" : "0FE7D4",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D4",
       "kddi" : "00E4B6",
       "mixi" : [
@@ -14315,6 +15428,9 @@
       "docomo" : "00E657",
       "emoji_id" : "7D5",
       "google" : "0FE7D5",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D5",
       "kddi" : "00EAAC",
       "mixi" : [
@@ -14331,6 +15447,9 @@
       "docomo" : "00E658",
       "emoji_id" : "7D6",
       "google" : "0FE7D6",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D6",
       "kddi" : "00E59A",
       "mixi" : [
@@ -14347,6 +15466,9 @@
       "docomo" : "00E659",
       "emoji_id" : "7D7",
       "google" : "0FE7D7",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D7",
       "kddi" : "00E4B9",
       "mixi" : [
@@ -14363,6 +15485,9 @@
       "docomo" : "00E712",
       "emoji_id" : "7D8",
       "google" : "0FE7D8",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D8",
       "kddi" : "00E4B8",
       "mixi" : [
@@ -14379,6 +15504,9 @@
       "docomo" : "00E733",
       "emoji_id" : "7D9",
       "google" : "0FE7D9",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7D9",
       "kddi" : "00E46B",
       "mixi" : [
@@ -14442,6 +15570,9 @@
       "docomo" : "00E65B",
       "emoji_id" : "7DF",
       "google" : "0FE7DF",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7DF",
       "kddi" : "00E4B5",
       "mixi" : [
@@ -14459,6 +15590,9 @@
       "docomo_fallback" : "00E65C",
       "emoji_id" : "7E0",
       "google" : "0FE7E0",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7E0",
       "kddi" : "00E5BC",
       "softbank" : "00E434",
@@ -14480,6 +15614,9 @@
       "docomo" : "00E65D",
       "emoji_id" : "7E2",
       "google" : "0FE7E2",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7E2",
       "kddi_fallback" : "00E4B0",
       "mixi" : [
@@ -14507,6 +15644,9 @@
       "docomo" : "00E65E",
       "emoji_id" : "7E4",
       "google" : "0FE7E4",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7E4",
       "kddi" : "00E4B1",
       "mixi" : [
@@ -14524,6 +15664,9 @@
       "docomo" : "00E65F",
       "emoji_id" : "7E5",
       "google" : "0FE7E5",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7E5",
       "kddi_fallback" : "00E4B1",
       "softbank" : "00E42E",
@@ -14534,6 +15677,9 @@
       "docomo" : "00E660",
       "emoji_id" : "7E6",
       "google" : "0FE7E6",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7E6",
       "kddi" : "00E4AF",
       "mixi" : [
@@ -14561,6 +15707,9 @@
       "docomo" : "00E661",
       "emoji_id" : "7E8",
       "google" : "0FE7E8",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7E8",
       "kddi" : "00EA82",
       "softbank" : "00E202",
@@ -14572,6 +15721,9 @@
       "docomo" : "00E662",
       "emoji_id" : "7E9",
       "google" : "0FE7E9",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7E9",
       "kddi" : "00E4B3",
       "mixi" : [
@@ -14588,6 +15740,9 @@
       "docomo" : "00E6A3",
       "emoji_id" : "7EA",
       "google" : "0FE7EA",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7EA",
       "kddi" : "00E4B4",
       "mixi" : [
@@ -14610,6 +15765,9 @@
       "docomo" : "00E71D",
       "emoji_id" : "7EB",
       "google" : "0FE7EB",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7EB",
       "kddi" : "00E4AE",
       "mixi" : [
@@ -14708,6 +15866,9 @@
       "docomo" : "00E66B",
       "emoji_id" : "7F5",
       "google" : "0FE7F5",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7F5",
       "kddi" : "00E571",
       "mixi" : [
@@ -14724,6 +15885,9 @@
       "docomo" : "00E66C",
       "emoji_id" : "7F6",
       "google" : "0FE7F6",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7F6",
       "kddi" : "00E4A6",
       "mixi" : [
@@ -14740,6 +15904,9 @@
       "docomo" : "00E66D",
       "emoji_id" : "7F7",
       "google" : "0FE7F7",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7F7",
       "kddi" : "00E46A",
       "mixi" : [
@@ -14775,6 +15942,9 @@
       "docomo" : "00E6F7",
       "emoji_id" : "7FA",
       "google" : "0FE7FA",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7FA",
       "kddi" : "00E4BC",
       "mixi" : [
@@ -14802,6 +15972,9 @@
       "docomo" : "00E679",
       "emoji_id" : "7FC",
       "google" : "0FE7FC",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE7FC",
       "mixi" : [
          "[m:127]",
@@ -14843,6 +16016,9 @@
       "docomo" : "00E676",
       "emoji_id" : "800",
       "google" : "0FE800",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE800",
       "kddi" : "00E503",
       "mixi" : [
@@ -14859,6 +16035,9 @@
       "docomo" : "00E677",
       "emoji_id" : "801",
       "google" : "0FE801",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE801",
       "kddi" : "00E517",
       "mixi" : [
@@ -14887,6 +16066,9 @@
       "docomo" : "00E67A",
       "emoji_id" : "803",
       "google" : "0FE803",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE803",
       "kddi" : "00E508",
       "mixi" : [
@@ -14903,6 +16085,9 @@
       "docomo" : "00E67B",
       "emoji_id" : "804",
       "google" : "0FE804",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE804",
       "kddi" : "00E59C",
       "mixi" : [
@@ -14919,6 +16104,9 @@
       "docomo" : "00E67C",
       "emoji_id" : "805",
       "google" : "0FE805",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE805",
       "kddi" : "00EAF5",
       "mixi" : [
@@ -14936,6 +16124,9 @@
       "docomo" : "00E67D",
       "emoji_id" : "806",
       "google" : "0FE806",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE806",
       "kddi" : "00E59E",
       "mixi" : [
@@ -14950,6 +16141,9 @@
       "docomo" : "00E67E",
       "emoji_id" : "807",
       "google" : "0FE807",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE807",
       "kddi" : "00E49E",
       "mixi" : [
@@ -14967,6 +16161,9 @@
       "docomo" : "00E6AC",
       "emoji_id" : "808",
       "google" : "0FE808",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE808",
       "kddi" : "00E4BE",
       "mixi" : [
@@ -14992,6 +16189,9 @@
       "docomo" : "00E68B",
       "emoji_id" : "80A",
       "google" : "0FE80A",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE80A",
       "kddi" : "00E4C6",
       "mixi" : [
@@ -15077,6 +16277,9 @@
       "docomo" : "00E6F6",
       "emoji_id" : "813",
       "google" : "0FE813",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE813",
       "kddi" : "00E5BE",
       "mixi" : [
@@ -15093,6 +16296,9 @@
       "docomo" : "00E6FF",
       "emoji_id" : "814",
       "google" : "0FE814",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE814",
       "kddi" : "00E505",
       "mixi" : [
@@ -15171,6 +16377,9 @@
       "docomo" : "00E68A",
       "emoji_id" : "81C",
       "google" : "0FE81C",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE81C",
       "kddi" : "00E502",
       "mixi" : [
@@ -15187,6 +16396,9 @@
       "docomo" : "00E68C",
       "emoji_id" : "81D",
       "google" : "0FE81D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE81D",
       "kddi" : "00E50C",
       "mixi" : [
@@ -15249,6 +16461,9 @@
       "docomo" : "00E6F9",
       "emoji_id" : "823",
       "google" : "0FE823",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE823",
       "kddi" : "00E4EB",
       "mixi" : [
@@ -15269,6 +16484,9 @@
       "docomo" : "00E717",
       "emoji_id" : "824",
       "google" : "0FE824",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE824",
       "kddi" : "00EB78",
       "mixi" : [
@@ -15284,6 +16502,9 @@
       "docomo" : "00E71B",
       "emoji_id" : "825",
       "google" : "0FE825",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE825",
       "kddi" : "00E514",
       "mixi" : [
@@ -15348,6 +16569,9 @@
       "docomo" : "00E6DF",
       "emoji_id" : "82B",
       "google" : "0FE82B",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE82B",
       "mixi" : [
          "[m:163]",
@@ -15362,6 +16586,9 @@
       "docomo" : "00E6E0",
       "emoji_id" : "82C",
       "google" : "0FE82C",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE82C",
       "kddi" : "00EB84",
       "mixi" : [
@@ -15381,6 +16608,9 @@
       "docomo" : "00E6E1",
       "emoji_id" : "82D",
       "google" : "0FE82D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE82D",
       "kddi" : "00E52C",
       "mixi" : [
@@ -15394,6 +16624,9 @@
       "docomo" : "00E6E2",
       "emoji_id" : "82E",
       "google" : "0FE82E",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE82E",
       "kddi" : "00E522",
       "mixi" : [
@@ -15413,6 +16646,9 @@
       "docomo" : "00E6E3",
       "emoji_id" : "82F",
       "google" : "0FE82F",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE82F",
       "kddi" : "00E523",
       "mixi" : [
@@ -15432,6 +16668,9 @@
       "docomo" : "00E6E4",
       "emoji_id" : "830",
       "google" : "0FE830",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE830",
       "kddi" : "00E524",
       "mixi" : [
@@ -15451,6 +16690,9 @@
       "docomo" : "00E6E5",
       "emoji_id" : "831",
       "google" : "0FE831",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE831",
       "kddi" : "00E525",
       "mixi" : [
@@ -15470,6 +16712,9 @@
       "docomo" : "00E6E6",
       "emoji_id" : "832",
       "google" : "0FE832",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE832",
       "kddi" : "00E526",
       "mixi" : [
@@ -15489,6 +16734,9 @@
       "docomo" : "00E6E7",
       "emoji_id" : "833",
       "google" : "0FE833",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE833",
       "kddi" : "00E527",
       "mixi" : [
@@ -15508,6 +16756,9 @@
       "docomo" : "00E6E8",
       "emoji_id" : "834",
       "google" : "0FE834",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE834",
       "kddi" : "00E528",
       "mixi" : [
@@ -15527,6 +16778,9 @@
       "docomo" : "00E6E9",
       "emoji_id" : "835",
       "google" : "0FE835",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE835",
       "kddi" : "00E529",
       "mixi" : [
@@ -15546,6 +16800,9 @@
       "docomo" : "00E6EA",
       "emoji_id" : "836",
       "google" : "0FE836",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE836",
       "kddi" : "00E52A",
       "mixi" : [
@@ -15565,6 +16822,9 @@
       "docomo" : "00E6EB",
       "emoji_id" : "837",
       "google" : "0FE837",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE837",
       "kddi" : "00E5AC",
       "mixi" : [
@@ -15626,6 +16886,9 @@
       "docomo" : "00E673",
       "emoji_id" : "960",
       "google" : "0FE960",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE960",
       "kddi" : "00E4D6",
       "mixi" : [
@@ -15642,6 +16905,9 @@
       "docomo" : "00E749",
       "emoji_id" : "961",
       "google" : "0FE961",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE961",
       "kddi" : "00E4D5",
       "softbank" : "00E342",
@@ -15652,6 +16918,9 @@
       "docomo" : "00E74A",
       "emoji_id" : "962",
       "google" : "0FE962",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE962",
       "kddi" : "00E4D0",
       "softbank" : "00E046",
@@ -15662,6 +16931,9 @@
       "docomo" : "00E74C",
       "emoji_id" : "963",
       "google" : "0FE963",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE963",
       "kddi" : "00E5B4",
       "softbank" : "00E340",
@@ -15672,6 +16944,9 @@
       "docomo" : "00E74D",
       "emoji_id" : "964",
       "google" : "0FE964",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE964",
       "kddi" : "00EAAF",
       "softbank" : "00E339",
@@ -15913,6 +17188,9 @@
       "docomo" : "00E66F",
       "emoji_id" : "980",
       "google" : "0FE980",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE980",
       "kddi" : "00E4AC",
       "mixi" : [
@@ -15930,6 +17208,9 @@
       "docomo" : "00E670",
       "emoji_id" : "981",
       "google" : "0FE981",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE981",
       "kddi" : "00E597",
       "mixi" : [
@@ -15946,6 +17227,9 @@
       "docomo" : "00E671",
       "emoji_id" : "982",
       "google" : "0FE982",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE982",
       "kddi" : "00E4C2",
       "mixi" : [
@@ -15963,6 +17247,9 @@
       "docomo" : "00E672",
       "emoji_id" : "983",
       "google" : "0FE983",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE983",
       "kddi" : "00E4C3",
       "mixi" : [
@@ -15981,6 +17268,9 @@
       "docomo" : "00E71E",
       "emoji_id" : "984",
       "google" : "0FE984",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE984",
       "kddi" : "00EAAE",
       "mixi" : [
@@ -15997,6 +17287,9 @@
       "docomo" : "00E74B",
       "emoji_id" : "985",
       "google" : "0FE985",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE985",
       "kddi" : "00EA97",
       "softbank" : "00E30B",
@@ -16007,6 +17300,9 @@
       "docomo" : "00E756",
       "emoji_id" : "986",
       "google" : "0FE986",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FE986",
       "kddi" : "00E4C1",
       "softbank_fallback" : "00E044",
@@ -16038,6 +17334,9 @@
       "docomo" : "00E678",
       "emoji_id" : "AF0",
       "google" : "0FEAF0",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEAF0",
       "kddi" : "00E555",
       "mixi" : [
@@ -16055,6 +17354,9 @@
       "docomo" : "00E696",
       "emoji_id" : "AF1",
       "google" : "0FEAF1",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEAF1",
       "kddi" : "00E54D",
       "mixi" : [
@@ -16072,6 +17374,9 @@
       "docomo" : "00E697",
       "emoji_id" : "AF2",
       "google" : "0FEAF2",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEAF2",
       "kddi" : "00E54C",
       "mixi" : [
@@ -16089,6 +17394,9 @@
       "docomo" : "00E6A5",
       "emoji_id" : "AF3",
       "google" : "0FEAF3",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEAF3",
       "kddi" : "00E556",
       "mixi" : [
@@ -16106,6 +17414,9 @@
       "docomo" : "00E6F5",
       "emoji_id" : "AF4",
       "google" : "0FEAF4",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEAF4",
       "kddi" : "00EB2D",
       "mixi" : [
@@ -16122,6 +17433,9 @@
       "docomo" : "00E700",
       "emoji_id" : "AF5",
       "google" : "0FEAF5",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEAF5",
       "kddi" : "00EB2E",
       "mixi" : [
@@ -16140,6 +17454,9 @@
       "docomo" : "00E73C",
       "emoji_id" : "AF6",
       "google" : "0FEAF6",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEAF6",
       "kddi" : "00EB7A",
       "text" : "⇔",
@@ -16150,6 +17467,9 @@
       "docomo" : "00E73D",
       "emoji_id" : "AF7",
       "google" : "0FEAF7",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEAF7",
       "kddi" : "00EB7B",
       "text" : "↑↓",
@@ -16277,6 +17597,9 @@
       "docomo" : "00E702",
       "emoji_id" : "B04",
       "google" : "0FEB04",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB04",
       "kddi" : "00E482",
       "mixi" : [
@@ -16295,6 +17618,9 @@
       "docomo" : "00E703",
       "emoji_id" : "B05",
       "google" : "0FEB05",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB05",
       "kddi" : "00EB2F",
       "mixi" : [
@@ -16310,6 +17636,9 @@
       "docomo" : "00E704",
       "emoji_id" : "B06",
       "google" : "0FEB06",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB06",
       "kddi" : "00EB30",
       "mixi" : [
@@ -16325,6 +17654,9 @@
       "docomo" : "00E709",
       "emoji_id" : "B07",
       "google" : "0FEB07",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB07",
       "mixi" : [
          "[m:177]",
@@ -16337,6 +17669,9 @@
       "docomo" : "00E70A",
       "emoji_id" : "B08",
       "google" : "0FEB08",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB08",
       "kddi" : "00EB31",
       "mixi" : [
@@ -16381,6 +17716,9 @@
       "docomo" : "00E6EC",
       "emoji_id" : "B0C",
       "google" : "0FEB0C",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB0C",
       "kddi" : "00E595",
       "mixi" : [
@@ -16410,6 +17748,9 @@
       "docomo" : "00E6ED",
       "emoji_id" : "B0D",
       "google" : "0FEB0D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB0D",
       "kddi" : "00EB75",
       "mixi" : [
@@ -16429,6 +17770,9 @@
       "docomo" : "00E6EE",
       "emoji_id" : "B0E",
       "google" : "0FEB0E",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB0E",
       "kddi" : "00E477",
       "mixi" : [
@@ -16445,6 +17789,9 @@
       "docomo" : "00E6EF",
       "emoji_id" : "B0F",
       "google" : "0FEB0F",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB0F",
       "kddi" : "00E478",
       "mixi" : [
@@ -16562,6 +17909,9 @@
       "docomo" : "00E68D",
       "emoji_id" : "B1A",
       "google" : "0FEB1A",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB1A",
       "hatena_00e000" : "00E017",
       "kddi" : "00EAA5",
@@ -16580,6 +17930,9 @@
       "docomo" : "00E68E",
       "emoji_id" : "B1B",
       "google" : "0FEB1B",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB1B",
       "hatena_00e000" : "00E015",
       "kddi" : "00E5A1",
@@ -16598,6 +17951,9 @@
       "docomo" : "00E68F",
       "emoji_id" : "B1C",
       "google" : "0FEB1C",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB1C",
       "hatena_00e000" : "00E016",
       "kddi" : "00E5A2",
@@ -16616,6 +17972,9 @@
       "docomo" : "00E690",
       "emoji_id" : "B1D",
       "google" : "0FEB1D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB1D",
       "hatena_00e000" : "00E018",
       "kddi" : "00E5A3",
@@ -16633,6 +17992,9 @@
       "docomo" : "00E67F",
       "emoji_id" : "B1E",
       "google" : "0FEB1E",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB1E",
       "kddi" : "00E47D",
       "mixi" : [
@@ -16649,6 +18011,9 @@
       "docomo" : "00E680",
       "emoji_id" : "B1F",
       "google" : "0FEB1F",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB1F",
       "kddi" : "00E47E",
       "mixi" : [
@@ -16666,6 +18031,9 @@
       "docomo" : "00E69B",
       "emoji_id" : "B20",
       "google" : "0FEB20",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB20",
       "kddi" : "00E47F",
       "mixi" : [
@@ -16682,6 +18050,9 @@
       "docomo" : "00E6D7",
       "emoji_id" : "B21",
       "google" : "0FEB21",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB21",
       "kddi" : "00E578",
       "mixi" : [
@@ -16699,6 +18070,9 @@
       "docomo" : "00E6DE",
       "emoji_id" : "B22",
       "google" : "0FEB22",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB22",
       "kddi" : "00EB2C",
       "mixi" : [
@@ -16715,6 +18089,9 @@
       "docomo" : "00E737",
       "emoji_id" : "B23",
       "google" : "0FEB23",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB23",
       "kddi" : "00E481",
       "mixi" : [
@@ -16759,6 +18136,9 @@
       "docomo" : "00E70B",
       "emoji_id" : "B27",
       "google" : "0FEB27",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB27",
       "kddi" : "00E5AD",
       "mixi" : [
@@ -16779,6 +18159,9 @@
       "docomo" : "00E72F",
       "emoji_id" : "B28",
       "google" : "0FEB28",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB28",
       "mixi" : [
          "[m:99]",
@@ -16796,6 +18179,9 @@
       "docomo" : "00E731",
       "emoji_id" : "B29",
       "google" : "0FEB29",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB29",
       "kddi" : "00E558",
       "mixi" : [
@@ -16812,6 +18198,9 @@
       "docomo" : "00E732",
       "emoji_id" : "B2A",
       "google" : "0FEB2A",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB2A",
       "kddi" : "00E54E",
       "mixi" : [
@@ -16832,6 +18221,9 @@
       "docomo" : "00E734",
       "emoji_id" : "B2B",
       "google" : "0FEB2B",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB2B",
       "kddi" : "00E4F1",
       "mixi" : [
@@ -16852,6 +18244,9 @@
       "docomo" : "00E735",
       "emoji_id" : "B2C",
       "google" : "0FEB2C",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB2C",
       "kddi" : "00EB79",
       "mixi" : [
@@ -16866,6 +18261,9 @@
       "docomo" : "00E736",
       "emoji_id" : "B2D",
       "google" : "0FEB2D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB2D",
       "kddi" : "00E559",
       "mixi" : [
@@ -16900,6 +18298,9 @@
       "docomo" : "00E739",
       "emoji_id" : "B2F",
       "google" : "0FEB2F",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB2F",
       "kddi" : "00EA8A",
       "mixi" : [
@@ -16915,6 +18316,9 @@
       "docomo" : "00E73A",
       "emoji_id" : "B30",
       "google" : "0FEB30",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB30",
       "mixi" : [
          "[m:246]",
@@ -16933,6 +18337,9 @@
       "docomo" : "00E73B",
       "emoji_id" : "B31",
       "google" : "0FEB31",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB31",
       "kddi" : "00EA89",
       "softbank" : "00E22A",
@@ -16977,6 +18384,9 @@
       "docomo" : "00E6DD",
       "emoji_id" : "B36",
       "google" : "0FEB36",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB36",
       "kddi" : "00E5B5",
       "mixi" : [
@@ -17145,6 +18555,9 @@
       "docomo_fallback" : "00E738",
       "emoji_id" : "B48",
       "google" : "0FEB48",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB48",
       "kddi" : "00E541",
       "text" : "禁止",
@@ -17256,6 +18669,9 @@
       "docomo" : "00E6F8",
       "emoji_id" : "B55",
       "google" : "0FEB55",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB55",
       "mixi" : [
          "[m:176]",
@@ -17272,6 +18688,9 @@
       "docomo" : "00E6FB",
       "emoji_id" : "B56",
       "google" : "0FEB56",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB56",
       "kddi" : "00E476",
       "mixi" : [
@@ -17289,6 +18708,9 @@
       "docomo" : "00E6FC",
       "emoji_id" : "B57",
       "google" : "0FEB57",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB57",
       "kddi" : "00E4E5",
       "mixi" : [
@@ -17305,6 +18727,9 @@
       "docomo" : "00E6FE",
       "emoji_id" : "B58",
       "google" : "0FEB58",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB58",
       "kddi" : "00E47A",
       "mixi" : [
@@ -17321,6 +18746,9 @@
       "docomo" : "00E701",
       "emoji_id" : "B59",
       "google" : "0FEB59",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB59",
       "kddi" : "00E475",
       "mixi" : [
@@ -17353,6 +18781,9 @@
       "docomo" : "00E706",
       "emoji_id" : "B5B",
       "google" : "0FEB5B",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB5B",
       "kddi" : "00E5B1",
       "mixi" : [
@@ -17369,6 +18800,9 @@
       "docomo" : "00E707",
       "emoji_id" : "B5C",
       "google" : "0FEB5C",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB5C",
       "kddi" : "00E4E6",
       "mixi" : [
@@ -17384,6 +18818,9 @@
       "docomo" : "00E708",
       "emoji_id" : "B5D",
       "google" : "0FEB5D",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB5D",
       "kddi" : "00E4F4",
       "mixi" : [
@@ -17418,6 +18855,9 @@
       "docomo" : "00E6FA",
       "emoji_id" : "B60",
       "google" : "0FEB60",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB60",
       "kddi" : "00EAAB",
       "mixi" : [
@@ -17437,6 +18877,9 @@
       "docomo_fallback" : "00E6F8",
       "emoji_id" : "B61",
       "google" : "0FEB61",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB61",
       "kddi" : "00E479",
       "softbank" : "00E205",
@@ -17733,6 +19176,9 @@
       "docomo" : "00E6D8",
       "emoji_id" : "B81",
       "google" : "0FEB81",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB81",
       "kddi" : "00EA88",
       "mixi" : [
@@ -17749,6 +19195,9 @@
       "docomo" : "00E6D9",
       "emoji_id" : "B82",
       "google" : "0FEB82",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB82",
       "kddi" : "00E519",
       "mixi" : [
@@ -17771,6 +19220,9 @@
       "docomo" : "00E6DA",
       "emoji_id" : "B83",
       "google" : "0FEB83",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB83",
       "kddi" : "00E55D",
       "mixi" : [
@@ -17785,6 +19237,9 @@
       "docomo" : "00E6DB",
       "emoji_id" : "B84",
       "google" : "0FEB84",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB84",
       "kddi" : "00E5AB",
       "mixi" : [
@@ -17799,6 +19254,9 @@
       "docomo" : "00E6DC",
       "emoji_id" : "B85",
       "google" : "0FEB85",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB85",
       "kddi" : "00E518",
       "mixi" : [
@@ -17935,6 +19393,9 @@
       "docomo" : "00E693",
       "emoji_id" : "B93",
       "google" : "0FEB93",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB93",
       "kddi" : "00EB83",
       "mixi" : [
@@ -17952,6 +19413,9 @@
       "docomo" : "00E694",
       "emoji_id" : "B94",
       "google" : "0FEB94",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB94",
       "kddi" : "00E5A6",
       "mixi" : [
@@ -17968,6 +19432,9 @@
       "docomo" : "00E695",
       "emoji_id" : "B95",
       "google" : "0FEB95",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB95",
       "kddi" : "00E5A7",
       "mixi" : [
@@ -17987,6 +19454,9 @@
       "docomo" : "00E6FD",
       "emoji_id" : "B96",
       "google" : "0FEB96",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB96",
       "kddi" : "00E4F3",
       "mixi" : [
@@ -18003,6 +19473,9 @@
       "docomo" : "00E727",
       "emoji_id" : "B97",
       "google" : "0FEB97",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEB97",
       "kddi" : "00E4F9",
       "mixi" : [
@@ -18128,6 +19601,9 @@
       "docomo" : "00E6D1",
       "emoji_id" : "E10",
       "google" : "0FEE10",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEE10",
       "text" : "iモード"
    },
@@ -18135,6 +19611,9 @@
       "docomo" : "00E6D2",
       "emoji_id" : "E11",
       "google" : "0FEE11",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEE11",
       "text" : "iモード"
    },
@@ -18142,6 +19621,9 @@
       "docomo" : "00E6D4",
       "emoji_id" : "E12",
       "google" : "0FEE12",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEE12",
       "text" : "ドコモ"
    },
@@ -18149,6 +19631,9 @@
       "docomo" : "00E6D5",
       "emoji_id" : "E13",
       "google" : "0FEE13",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEE13",
       "text" : "ドコモポイント"
    },
@@ -18156,6 +19641,9 @@
       "docomo" : "00E70C",
       "emoji_id" : "E14",
       "google" : "0FEE14",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEE14",
       "text" : "iアプリ"
    },
@@ -18163,6 +19651,9 @@
       "docomo" : "00E70D",
       "emoji_id" : "E15",
       "google" : "0FEE15",
+      "has_image" : {
+         "colored_16x16_gif" : 1
+      },
       "hatena" : "0FEE15",
       "mixi" : [
          "[m:209]",
