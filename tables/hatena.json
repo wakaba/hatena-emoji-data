@@ -1867,6 +1867,7 @@
       "unicode_fallback" : "0021D3"
    },
    "002B1B" : {
+      "charname" : "BLACK LARGE SQUARE",
       "emoji_id" : "B6C",
       "google" : "0FEB6C",
       "hatena" : "0FEB6C",
@@ -1877,6 +1878,7 @@
       "unicode_age" : "5.1"
    },
    "002B1C" : {
+      "charname" : "WHITE LARGE SQUARE",
       "emoji_id" : "B6B",
       "google" : "0FEB6B",
       "hatena" : "0FEB6B",
@@ -1887,6 +1889,7 @@
       "unicode_age" : "5.1"
    },
    "002B50" : {
+      "charname" : "WHITE MEDIUM STAR",
       "emoji_id" : "B68",
       "google" : "0FEB68",
       "hatena" : "0FEB68",
@@ -18953,6 +18956,7 @@
       "unicode" : "01F533"
    },
    "0FEB68" : {
+      "charname" : "WHITE MEDIUM STAR",
       "emoji_id" : "B68",
       "google" : "0FEB68",
       "hatena" : "0FEB68",
@@ -18979,6 +18983,7 @@
       "unicode" : "01F320"
    },
    "0FEB6B" : {
+      "charname" : "WHITE LARGE SQUARE",
       "emoji_id" : "B6B",
       "google" : "0FEB6B",
       "hatena" : "0FEB6B",
@@ -18988,6 +18993,7 @@
       "unicode" : "002B1C"
    },
    "0FEB6C" : {
+      "charname" : "BLACK LARGE SQUARE",
       "emoji_id" : "B6C",
       "google" : "0FEB6C",
       "hatena" : "0FEB6C",
