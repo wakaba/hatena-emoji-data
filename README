@@ -1,0 +1,60 @@
+hatena-emoji-data
+~~~~~~~~~~~~~~~~~
+
+This repository contains the Hatena Emoji convertion table and scripts
+to generate it.
+
+* Files
+
+tables/hatena.json
+
+  The Hatena Emoji mapping table.
+
+tables/hatena-0fa700.txt
+
+  List of Hatena-extended Emoji characters.
+
+images/
+
+  Emoji glyphs.
+
+* tables/hatena.json format
+
+  Keys: Hatena internal code point (Unicode)
+  Values:
+    charname:   Character name
+                (uppercase-only = official; lowercase-only = private)
+    unicode:    Official Unicode code point
+    unicode_age: Unicode version
+    emoji_id:   Hatena Emoji ID (as used in the "[emoji:...]" notation)
+    docomo:     i-mode code point (Unicode)
+    kddi:       au code point (Unicode)
+    softbank:   SoftBank code point (Unicode)
+    google:     Google (Gmail) Emoji code point (Unicode)
+    hatena:     Hatena Emoji code point (Unicode)
+    hatena_00e000: Hatena Emoji code point (Unicode), in U+E000 area
+    mixi:       Array containing mixi Emoji notations
+    docomo_fallback: i-mode fallback code point (Unicode)
+    kddi_fallback: au fallback code point (Unicode)
+    softbank_fallback: SoftBank fallback code point (Unicode)
+    text:       Textual alternate of the chracter (as a last resort)
+    has_image:  Object representing whether there is an image data
+                for the character in images/
+    image_url:  URL of a glyph image for the character
+
+Code points are represented in hexadecimal.
+
+* Regenerate convertion tables
+
+  $ cd tables && make
+
+* Author
+
+Wakaba <wakabatan@hatena.ne.jp>.
+
+* License
+
+Copyright 2009-2012 Hatena <http://www.hatena.ne.jp/>.
+
+You are granted a license to use, reproduce and create derivative
+works of these tables and scripts.
