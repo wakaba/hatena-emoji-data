@@ -52,6 +52,12 @@ Code points are represented in hexadecimal.
 
 Wakaba <wakabatan@hatena.ne.jp>.
 
+* Acknowledgements
+
+The table was originally developed as part of Ugomemo Hatena project.
+Thanks to cho45, motemen, Kentaro Kuribayashi, and shiba_yu36 for
+their contributions to Perl and JavaScript implementations.
+
 * License
 
 Copyright 2009-2012 Hatena <http://www.hatena.ne.jp/>.
