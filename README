@@ -14,6 +14,10 @@ tables/hatena-0fa700.txt
 
   List of Hatena-extended Emoji characters.
 
+collections/hatena.json
+
+  Hatena Emoji palette character collections.
+
 images/
 
   Emoji glyphs.
@@ -44,9 +48,17 @@ images/
 
 Code points are represented in hexadecimal.
 
+* collections/hatena.json format
+
+  Keys: Collection names
+  Values: Arrays of items in the collection
+    Array items: Strings of one or more characters
+
 * Regenerate convertion tables
 
-  $ cd tables && make
+  $ make
+
+(or cd tables && make; cd collections && make)
 
 * Author
 

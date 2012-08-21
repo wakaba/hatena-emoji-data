@@ -1,6 +1,6 @@
 WGET = wget
 PERL = perl
-PERL_ENV = PATH="bin/perl-$(PERL_VERSION)/pm/bin:$(PERL_PATH):$(PATH)" PERL5LIB="$(shell cat ../config/perl/libs.txt)"
+PERL_ENV = PATH="$(abspath ../bin/perl-$(PERL_VERSION)/pm/bin):$(PERL_PATH):$(PATH)" PERL5LIB="$(shell cat ../config/perl/libs.txt)"
 
 all: deps hatena.json
 

@@ -1,4 +1,6 @@
 all:
+	cd tables && $(MAKE) all
+	cd collections && $(MAKE) all
 
 # ------ Setup ------
 
